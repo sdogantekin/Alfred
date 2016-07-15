@@ -1,0 +1,372 @@
+<div class="container">
+    <div class="wrapper">
+        <!--
+        <form action="/signup" method="post" role="form" name="SignIn_Form" class="form-signin" id="signInForm">
+        <h3 class="form-signin-heading">Please Sign Up</h3><br>
+        <input type="text" class="form-control" name="username" id="username" placeholder="Username" required="true" autofocus="" />
+        <input type="password" class="form-control" name="password" id="password" placeholder="Password" required="true"/>
+        <button type="button" class="btn btn-primary btn-block" onclick="signup();">Sign Up</button>
+        </form>
+        -->
+
+        <div id="signInForm" class="form-signin">
+            <span class="closeSignUp" style="display:none;">×</span>
+            <h3 class="form-signin-heading">Please Sign Up</h3>
+            <div class="navbar">
+                <div class="navbar-inner">
+                    <div class="container">
+                        <ul class="nav nav-header">
+                            <li class="active"><a href="#tab1" data-toggle="tab" aria-expanded="true">User</a></li>
+                            <li class=""><a href="#tab2" data-toggle="tab" aria-expanded="false">Cards</a></li>
+                            <li class=""><a href="#tab3" data-toggle="tab" aria-expanded="false">Programs</a></li>
+                            <li class=""><a href="#tab4" data-toggle="tab" aria-expanded="false">Operators</a></li>
+                            <li class=""><a href="#tab5" data-toggle="tab" aria-expanded="false">Preferences</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div id="bar" class="progress">
+                <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
+                     style="width: 0%;"></div>
+            </div>
+            <div class="tab-content" style="position: relative;">
+                <div class="tab-pane active" id="tab1">
+                    <div class="row">
+                        <div class="form-group">
+                            <label for="username" class="control-label col-md-2">Username</label>
+                            <div class="col-md-10">
+                                <input name="username" id="username" type="text" class="form-control"
+                                       placeholder="User name">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="form-group">
+                            <label for="password" class="control-label col-md-2">Password</label>
+                            <div class="col-md-10">
+                                <input name="password" id="password" type="password" class="form-control"
+                                       placeholder="Password">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="tab2">
+                    <h5 class="form-signin-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</h5>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/cards/card_garanti.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="card" name="bonus" value="bonusCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/cards/card_maximum.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="card" name="maximum" value="maximumCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/cards/card_paraf.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="card" name="paraf" value="parafCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/cards/card_ing.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="card" name="ing" value="ingCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/cards/card_world.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="card" name="world" value="worldCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/cards/card_adios.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="card" name="adios" value="adiosCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="tab3">
+                    <h5 class="form-signin-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</h5>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/programs/hopi.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="program" name="hopi" value="hopiCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/programs/kapgel.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="program" name="kapgel" value="kapgelCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/programs/paro.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="program" name="paro" value="paroCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/programs/corq.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="program" name="corq" value="corqCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/programs/sepet.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="program" name="yemeksepeti" value="yemekSepetiCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/programs/hayt.png" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="program" name="hayt" value="haytCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="tab4">
+                    <h5 class="form-signin-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</h5>
+                    <div class="row">
+                        <div class="col-md-2">
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/operators/tt_prime.jpg" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="operator" name="tt-prime" value="ttPrimeCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/operators/turkcell_genc.jpg" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="operator" name="turkcell-genc" value="turkcellGencCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/operators/turkcell_platin.jpg" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="operator" name="turkcell-platin" value="turkcellPlatinCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="thumbnail transparent">
+                                <img src="/images/operators/vodafone_red.jpg" alt="...">
+                                <div class="caption">
+                                    <label>
+                                        <input type="checkbox" id="operator" name="vodafone-red" value="vodafoneRedCheck"> Using It
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="tab5">
+                    <h5 class="form-signin-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</h5>
+                    <form class="form-horizontal" role="form">
+                        <div class="row">
+                            <div class="form-group text-left">
+                                <label for="age" class="col-sm-3 control-label">Age</label>
+                                <div class="col-sm-6">
+                                    <select id="age" class="form-control">
+                                        <option value="">Please Select</option>
+                                        <option value="18-20">18-20</option>
+                                        <option value="20-25">20-25</option>
+                                        <option value="25-30">25-30</option>
+                                        <option value="30-40">30-40</option>
+                                        <option value="40-50">40-50</option>
+                                        <option value="50+">50+</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group text-left">
+                                <label class="control-label col-sm-3">Gender</label>
+                                <div class="col-sm-6">
+                                    <div class="row">
+                                            <div class="col-sm-3">
+                                            <label class="radio-inline">
+                                                <input type="radio" id="gender" name="gender" value="female">Female
+                                            </label>
+                                                </div>
+                                            <div class="col-sm-3">
+
+                                            <label class="radio-inline">
+                                                <input type="radio" id="gender" name="gender" value="male">Male
+                                            </label>
+                                                </div>
+                                            <div class="col-sm-3">
+
+                                            <label class="radio-inline">
+                                                <input type="radio" id="gender" name="gender" value="unknown">Unknown
+                                            </label>
+                                                </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group text-left">
+                                <label for="age" class="col-sm-3 control-label">Shoe Size</label>
+                                <div class="col-sm-6">
+                                    <select id="shoe_size" class="form-control">
+                                        <option value="">Please Select</option>
+                                        <option value="38">38</option>
+                                        <option value="39">39</option>
+                                        <option value="40">40</option>
+                                        <option value="41">41</option>
+                                        <option value="42">42</option>
+                                        <option value="43">43</option>
+                                        <option value="44">44</option>
+                                        <option value="45">45</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group text-left">
+                                <label for="age" class="col-sm-3 control-label">Cloth Size</label>
+                                <div class="col-sm-6">
+                                    <select id="cloth_size" class="form-control">
+                                        <option value="">Please Select</option>
+                                        <option value="XS">XS</option>
+                                        <option value="S">S</option>
+                                        <option value="M">M</option>
+                                        <option value="L">L</option>
+                                        <option value="XL">XL</option>
+                                        <option value="XXL">XXL</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" style="vertical-align: middle;">
+                            <div class="form-group text-left" style="vertical-align: middle;">
+                                <label class="control-label col-sm-3">Shopping Preference</label>
+                                <div class="col-sm-9">
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <label>
+                                                <input type="checkbox" id="preference" name="cheapest" value="cheapestCheck"> Prefer
+                                                Cheapest
+                                            </label>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <label>
+                                                <input type="checkbox" id="preference" name="safest" value="safestCheck"> Prefer
+                                                Safest
+                                            </label>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <label>
+                                                <input type="checkbox" id="preference" name="fastest" value="fastestCheck"> Prefer
+                                                Fastest
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="row">
+                    <div class="h-divider">
+                    </div>
+                </div>
+                <ul class="pager wizard">
+                    <div class="row" style="position:absolute; bottom: 0px; width: 100%;">
+                        <div class="col-xs-4 text-left">
+                            <li class="previous">
+                                <button type="button" class="btn btn-default previous" style="text-align: left;"
+                                        onclick="return false;">Previous
+                                </button>
+                            </li>
+                        </div>
+                        <div class="col-xs-4">
+                            <li class="finish">
+                                <button id="signUpButton" type="button" class="btn btn-success btn-block" style="text-align: center;"
+                                        onclick="return false;">Sign Up
+                                </button>
+                            </li>
+                        </div>
+                        <div class="col-xs-4 text-right">
+                            <li class="next disabled hidden">
+                                <button type="button" class="btn btn-primary" style="text-align: right;"
+                                        onclick="return false;">Next
+                                </button>
+                            </li>
+                        </div>
+                    </div>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,180 @@
+<% include _header %>
+
+<h1>Welcome to Alfred</h1>
+
+<br><br><br>
+<div class="ui-widget row">
+    <div class="col-sm-5 curveDiv">
+        <form class="form-inline">
+            <div class="row">
+                <label for="query_product">I have a product on my mind </label>
+            </div>
+            <div class="row" style="padding: 0px 0px 10px 0px;">
+                <input id="query_product" style="width: 100%; color: #252519">
+            </div>
+            <div class="row">
+                <button type="button" class="btn btn-primary" onclick="search($('#query_product').val());"><span class="glyphicon glyphicon-ok"></span> Search
+                </button>
+            </div>
+        </form>
+    </div>
+    <div class="col-sm-2">
+        <label for="dummy"></label>
+        <!--
+        <button type="button" class="btn btn-primary" style="text-align: center;" onclick="discount();">Show Me!</button>
+        -->
+    </div>
+    <div class="col-sm-5 curveDiv">
+        <form class="form-inline">
+            <div class="row">
+                <label for="query_product">I need to buy </label>
+            </div>
+            <div class="row" style="padding: 0px 0px 10px 0px;">
+                <label for="dummy"></label>
+            </div>
+            <div class="row">
+                <button type="button" class="btn btn-primary" onclick="alert('Ongoing!!!')"><span class="glyphicon glyphicon-plus"></span> Add to wish list
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<br><br><br>
+<div class="ui-widget row">
+    <div class="col-sm-3">
+        <label for="dummy"></label>
+        <!--
+        <button type="button" class="btn btn-primary" style="text-align: center;" onclick="discount();">Show Me!</button>
+        -->
+    </div>
+    <div class="col-sm-6 curveDiv hoverDiv" onclick="alert('Ongoing!!!')">
+        <form class="form-inline">
+            <div class="row">
+                <label>I want to buy a gift</label>
+            </div>
+        </form>
+    </div>
+    <div class="col-sm-3">
+        <label for="dummy"></label>
+        <!--
+        <button type="button" class="btn btn-primary" style="text-align: center;" onclick="discount();">Show Me!</button>
+        -->
+    </div>
+</div>
+<br>
+<div class="container-fluid">
+    <div id="loginModal" class="loginModal">
+        <% include _login %>
+        <script>
+            var button = document.getElementById("loginButton");
+            var span   = document.getElementsByClassName("closeLogin")[0];
+            span.style.display = "block";
+            button.onclick = function (event) {
+                event.preventDefault();
+                login();
+            };
+            span.onclick = function () {
+                dismissLoginModal();
+            };
+            window.onclick = function (event) {
+                if (event.target == loginModal || event.target == signUpModal) {
+                    dismissLoginModal();
+                    dismissSignUpModal();
+                }
+            };
+        </script>
+    </div>
+    <div id="signUpModal" class="signUpModal">
+        <% include _signup %>
+        <script>
+            var button = document.getElementById("signUpButton");
+            var span   = document.getElementsByClassName("closeSignUp")[0];
+            span.style.display = "block";
+            button.onclick = function (event) {
+                event.preventDefault();
+                signup("LANDING");
+            };
+            span.onclick = function () {
+                dismissSignUpModal();
+            };
+            window.onclick = function (event) {
+                if (event.target == loginModal || event.target == signUpModal) {
+                    dismissLoginModal();
+                    dismissSignUpModal();
+                }
+            };
+        </script>
+    </div>
+    <div class="row curveDiv" id="searchResultDiv" style="display: none">
+        <div class="col-sm-5">
+            <table class="table table-hover" id="productTable">
+                <thead>
+                <tr>
+                    <th>Merchant</th>
+                    <th>Product</th>
+                    <th>Price</th>
+                </tr>
+                </thead>
+                <tbody id="productTableBody">
+                </tbody>
+            </table>
+        </div>
+        <div class="col-sm-2">
+            <!--
+            <button type="button" class="btn btn-primary" style="text-align: center;" onclick="discount();">Show Me!</button>
+            -->
+        </div>
+        <div class="col-sm-5">
+            <table class="table table-hover" id="discountTable"
+                   style="display: <%= currentUser == null ? "none" : "block" %>">
+                <thead>
+                <tr>
+                    <th>Merchant</th>
+                    <th>Product</th>
+                    <th>Price</th>
+                    <th>Discount</th>
+                    <th>Bonus</th>
+                </tr>
+                </thead>
+                <tbody id="discountTableBody">
+                </tbody>
+            </table>
+            <div id="discountLogin" style="display: <%= currentUser == null ? "block" : "none" %>">
+                <h4 class="form-signin-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</h4>
+
+                <button type="button" class="btn btn-primary" style="text-align: center; width: 100%;" onclick="showSignUpModal();">
+                    SignUp To Get This Item With Discounts!
+                </button>
+                <br/>
+                <button type="button" class="btn btn-primary" style="text-align: center; width: 100%;" onclick="showLoginModal();">
+                    Login To Get This Item With Discounts!
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<% if (displayResultTable) { %>
+<br><br><br>
+<div class="table-responsive" style="background-color: #1abc9c;">
+    <table class="table" id="resultTable">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>merchant</th>
+            <th>score</th>
+            <th>id</th>
+            <th>title</th>
+            <th>price</th>
+            <th>description</th>
+            <th>image</th>
+            <th>category</th>
+            <th>link</th>
+        </tr>
+        </thead>
+        <tbody id="resultTableBody">
+        </tbody>
+    </table>
+</div>
+<% } %>
+
+<% include _footer %>

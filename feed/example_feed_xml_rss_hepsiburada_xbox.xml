@@ -1,0 +1,942 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<title>Example - Online Store</title>
+		<link>http://www.example.com</link>
+		<description>This is a sample feed containing the required and recommended attributes for a variety of different products</description>
+
+		<item>
+			<g:id>r1f7Mr9S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Microsoft Xbox One 500 GB Oyun Konsolu + Fifa 16 Kod</g:title>
+			<g:description>Microsoft Xbox One 500 GB Oyun Konsolu + Fifa 16 Kod</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_6675892.jpg</g:image_link>
+			<g:price>1249.00</g:price>
+			<g:link>http://www.hepsiburada.com/microsoft-xbox-one-500-gb-oyun-konsolu-fifa-16-kod-p-GAMEARAL114025</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları|Xbox Konsolları|Microsoft Xbox Konsolları</g:category>
+		</item>
+		<item>
+			<g:id>HkefmMHcS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Halo 5 : Guardians Xbox One</g:title>
+			<g:description>Halo 5 : Guardians Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_7843085.jpg</g:image_link>
+			<g:price>154.45</g:price>
+			<g:link>http://www.hepsiburada.com/halo-5-guardians-xbox-one-p-GAMEARAL130166</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Microsoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>rybMQzB5r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Microsoft Xbox One Oyun Konsolu 500 Gb</g:title>
+			<g:description>Microsoft Xbox One Oyun Konsolu 500 Gb</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4304187.jpg</g:image_link>
+			<g:price>1299.00</g:price>
+			<g:link>http://www.hepsiburada.com/microsoft-xbox-one-oyun-konsolu-500-gb-p-GAMEMIC114005</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları|Xbox Konsolları|Microsoft Xbox Konsolları</g:category>
+		</item>
+		<item>
+			<g:id>Hym7zB9H</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Square Enix Xbox One Tomb Raıder Defınıtıve Edıtıon</g:title>
+			<g:description>Square Enix Xbox One Tomb Raıder Defınıtıve Edıtıon</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_13531252.jpg</g:image_link>
+			<g:price>75.00</g:price>
+			<g:link>http://www.hepsiburada.com/square-enix-xbox-one-tomb-raider-definitive-edition-p-OYUNSAGEN1579</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları|Xbox Konsolları|Square Enix Xbox Konsolları</g:category>
+		</item>
+		<item>
+			<g:id>BklmXMS5B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>One Rise of Tomb Raider Xbox One</g:title>
+			<g:description>One Rise of Tomb Raider Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_7878591.jpg</g:image_link>
+			<g:price>159.90</g:price>
+			<g:link>http://www.hepsiburada.com/one-rise-of-tomb-raider-xbox-one-p-GAMEARAL130176</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Eidos Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>ryZQQzScB</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Ubisoft Xbox One Rayman Legends</g:title>
+			<g:description>Ubisoft Xbox One Rayman Legends</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_13531250.jpg</g:image_link>
+			<g:price>79.00</g:price>
+			<g:link>http://www.hepsiburada.com/ubisoft-xbox-one-rayman-legends-p-OYUNSAGEN1577</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları|Xbox Konsolları|Ubisoft Xbox Konsolları</g:category>
+		</item>
+		<item>
+			<g:id>SJMQmfH9H</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>GTA 5 Xbox One</g:title>
+			<g:description>GTA 5 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_6657752.jpg</g:image_link>
+			<g:price>224.00</g:price>
+			<g:link>http://www.hepsiburada.com/gta-5-xbox-one-p-GAMEARAL130060</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Take 2 Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>B1XX7MrcS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Quantum Break Xbox One Oyun</g:title>
+			<g:description>Quantum Break Xbox One Oyun</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_14100624.jpg</g:image_link>
+			<g:price>197.99</g:price>
+			<g:link>http://www.hepsiburada.com/quantum-break-xbox-one-oyun-p-GAMEWBQUANTUMBREAK</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Microsoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>B14mQGScS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Destiny Xbox One</g:title>
+			<g:description>Destiny Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3865701.jpg</g:image_link>
+			<g:price>59.00</g:price>
+			<g:link>http://www.hepsiburada.com/destiny-xbox-one-p-GAMEARAL130009</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Activision Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>BJVXGB5S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Microsoft Xbox One 500 Gb Oyun Konsolu + Kinect Sensör + The Witcher 3 Xbox One + Dance Central 3 Xbox One ( Kod )</g:title>
+			<g:description>Microsoft Xbox One 500 Gb Oyun Konsolu + Kinect Sensör + The Witcher 3 Xbox One + Dance Central 3 Xbox One ( Kod )</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_5094403.jpg</g:image_link>
+			<g:price>2400.00</g:price>
+			<g:link>http://www.hepsiburada.com/microsoft-xbox-one-500-gb-oyun-konsolu-kinect-sensor-the-witcher-3-xbox-one-dance-central-3-xbox-one-kod-p-GAMEARAL114023</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları|Xbox Konsolları|Microsoft Xbox Konsolları</g:category>
+		</item>
+		<item>
+			<g:id>SkBQGB5H</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Tom Clancy&apos;s Rainbow Six Seige Xbox One</g:title>
+			<g:description>Tom Clancy&apos;s Rainbow Six Seige Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_6920963.jpg</g:image_link>
+			<g:price>179.00</g:price>
+			<g:link>http://www.hepsiburada.com/tom-clancy-s-rainbow-six-seige-xbox-one-p-GAMEARAL130147</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ubisoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>HyxH7zHqS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Far Cry 4 Xbox One</g:title>
+			<g:description>Far Cry 4 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3980060.jpg</g:image_link>
+			<g:price>79.90</g:price>
+			<g:link>http://www.hepsiburada.com/far-cry-4-xbox-one-p-GAMEARAL130043</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ubisoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>Bk8QfS5B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Logitech Xbox 360 Mikrofon Guitar Hero Uyumlu</g:title>
+			<g:description>Logitech Xbox 360 Mikrofon Guitar Hero Uyumlu</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_13531260.jpg</g:image_link>
+			<g:price>35.00</g:price>
+			<g:link>http://www.hepsiburada.com/logitech-xbox-360-mikrofon-guitar-hero-uyumlu-p-OYUNSAGEN1583</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Logitech Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>r1xLXGrcr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Watch Dogs Xbox One</g:title>
+			<g:description>Watch Dogs Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4084560.jpg</g:image_link>
+			<g:price>89.00</g:price>
+			<g:link>http://www.hepsiburada.com/watch-dogs-xbox-one-p-GAMEARAL130022</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ubisoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>Bkv7zr5S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Need For Speed 2015 Xbox One</g:title>
+			<g:description>Need For Speed 2015 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_7901601.jpg</g:image_link>
+			<g:price>169.00</g:price>
+			<g:link>http://www.hepsiburada.com/need-for-speed-2015-xbox-one-p-GAMEARAL130121</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ea Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SJxwmGrcS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Forza 5 Xbox One</g:title>
+			<g:description>Forza 5 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3882207.jpg</g:image_link>
+			<g:price>149.00</g:price>
+			<g:link>http://www.hepsiburada.com/forza-5-xbox-one-p-GAMEARAL130031</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Microsoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>B1-DQfBqH</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Dead Rising 3 Apocalypse Xbox One</g:title>
+			<g:description>Dead Rising 3 Apocalypse Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3882208.jpg</g:image_link>
+			<g:price>69.90</g:price>
+			<g:link>http://www.hepsiburada.com/dead-rising-3-apocalypse-xbox-one-p-GAMEARAL130030</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Microsoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>HJfDXfB9H</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Disney Xbox One Infinity 3.0 Star Wars Start Pack</g:title>
+			<g:description>Disney Xbox One Infinity 3.0 Star Wars Start Pack</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_15422047.jpg</g:image_link>
+			<g:price>275.00</g:price>
+			<g:link>http://www.hepsiburada.com/disney-xbox-one-infinity-3-0-star-wars-start-pack-p-GAMEARAL3444</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Disney Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>rJumzS5B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Alien İsolation Nostromo Edition Xbox One</g:title>
+			<g:description>Alien İsolation Nostromo Edition Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4038857.jpg</g:image_link>
+			<g:price>49.00</g:price>
+			<g:link>http://www.hepsiburada.com/alien-isolation-nostromo-edition-xbox-one-p-GAMEARAL130052</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Sega Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>B1gdXMr5r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Just Dance Disney Party 2 Xbox One</g:title>
+			<g:description>Just Dance Disney Party 2 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_7879361.jpg</g:image_link>
+			<g:price>77.00</g:price>
+			<g:link>http://www.hepsiburada.com/just-dance-disney-party-2-xbox-one-p-GAMEARAL130146</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ubisoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SJW_mGH5H</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Konami Xbox One Metal Gear Solıd 5 Ground Zeroes</g:title>
+			<g:description>Konami Xbox One Metal Gear Solıd 5 Ground Zeroes</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_13531242.jpg</g:image_link>
+			<g:price>100.00</g:price>
+			<g:link>http://www.hepsiburada.com/konami-xbox-one-metal-gear-solid-5-ground-zeroes-p-OYUNSAGEN1573</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Playstation 4 Oyunları|Konami Playstation 4 Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>S1fOmGH9S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Logitech Xbox One Mikrofon Guitar Hero Uyumlu</g:title>
+			<g:description>Logitech Xbox One Mikrofon Guitar Hero Uyumlu</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_13531258.jpg</g:image_link>
+			<g:price>49.00</g:price>
+			<g:link>http://www.hepsiburada.com/logitech-xbox-one-mikrofon-guitar-hero-uyumlu-p-OYUNSAGEN1582</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Logitech Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>HJmumfBcB</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>State Of Decay Xbox One</g:title>
+			<g:description>State Of Decay Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4883837.jpg</g:image_link>
+			<g:price>74.00</g:price>
+			<g:link>http://www.hepsiburada.com/state-of-decay-xbox-one-p-GAMEARAL130109</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Microsoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>ryV_XGBqH</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Transformers Devastation Xbox One</g:title>
+			<g:description>Transformers Devastation Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_7837084.jpg</g:image_link>
+			<g:price>200.00</g:price>
+			<g:link>http://www.hepsiburada.com/transformers-devastation-xbox-one-p-GAMEARAL130151</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Activision Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>rJBOXGBqS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>The Witcher 3: Wild Hunt Xbox One</g:title>
+			<g:description>The Witcher 3: Wild Hunt Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_7952451.jpg</g:image_link>
+			<g:price>128.00</g:price>
+			<g:link>http://www.hepsiburada.com/the-witcher-3-wild-hunt-xbox-one-p-GAMEARAL130116</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Projekt Red Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>rJ8d7MB9H</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>The Evil Within Standard Edition Incl The Fighting Chance Xbox One</g:title>
+			<g:description>The Evil Within Standard Edition Incl The Fighting Chance Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3982687.jpg</g:image_link>
+			<g:price>60.00</g:price>
+			<g:link>http://www.hepsiburada.com/the-evil-within-standard-edition-incl-the-fighting-chance-xbox-one-p-GAMETRADEKS49038</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Bethesda Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>HJw_7zS9S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Electronic Arts Battlefield Hardline Xbox One Oyun</g:title>
+			<g:description>Electronic Arts Battlefield Hardline Xbox One Oyun</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4884938.jpg</g:image_link>
+			<g:price>88.00</g:price>
+			<g:link>http://www.hepsiburada.com/electronic-arts-battlefield-hardline-xbox-one-oyun-p-GAMEWB426</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox 360 Oyunları|Electronic Arts Xbox 360 Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>S1KXzHqH</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Activision Destiny Xbox One Oyun</g:title>
+			<g:description>Activision Destiny Xbox One Oyun</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4884930.jpg</g:image_link>
+			<g:price>180.00</g:price>
+			<g:link>http://www.hepsiburada.com/activision-destiny-xbox-one-oyun-p-GAMEWB496</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Activision Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>rklFXzBqr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Activision Xbox One Skylanders Superchargers Starter Pack</g:title>
+			<g:description>Activision Xbox One Skylanders Superchargers Starter Pack</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_15422163.jpg</g:image_link>
+			<g:price>165.00</g:price>
+			<g:link>http://www.hepsiburada.com/activision-xbox-one-skylanders-superchargers-starter-pack-p-GAMEARAL3540</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Activision Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>r1WK7Gr5S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Gears Of War Ultimate Edition Xbox One</g:title>
+			<g:description>Gears Of War Ultimate Edition Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_6117190.jpg</g:image_link>
+			<g:price>139.00</g:price>
+			<g:link>http://www.hepsiburada.com/gears-of-war-ultimate-edition-xbox-one-p-GAMEARAL130133</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Microsoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SkfK7MrqS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Lego Batman 3 Beyond Gotham Xbox One</g:title>
+			<g:description>Lego Batman 3 Beyond Gotham Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_5469665.jpg</g:image_link>
+			<g:price>79.00</g:price>
+			<g:link>http://www.hepsiburada.com/lego-batman-3-beyond-gotham-xbox-one-p-GAMEARAL130054</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Wb Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>HkmtmfSqr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Bethesda The Evil Within Xbox One</g:title>
+			<g:description>Bethesda The Evil Within Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4884932.jpg</g:image_link>
+			<g:price>220.00</g:price>
+			<g:link>http://www.hepsiburada.com/bethesda-the-evil-within-xbox-one-p-GAMEWB408</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Bethesda Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>rkNFQfSqS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Star Wars Battlefront Xbox One</g:title>
+			<g:description>Star Wars Battlefront Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_5181948.jpg</g:image_link>
+			<g:price>154.90</g:price>
+			<g:link>http://www.hepsiburada.com/star-wars-battlefront-xbox-one-p-GAMEARAL130016</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ea Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SySFQzr9H</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Dobe Xbox One Dual Charging Dock Şarj İstasyonu</g:title>
+			<g:description>Dobe Xbox One Dual Charging Dock Şarj İstasyonu</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_12762903.jpg</g:image_link>
+			<g:price>44.29</g:price>
+			<g:link>http://www.hepsiburada.com/dobe-xbox-one-dual-charging-dock-sarj-istasyonu-p-GAMETEKNOGNC1563</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolu Aksesuarları|Xbox Aksesuarları|Dobe Xbox Aksesuarları</g:category>
+		</item>
+		<item>
+			<g:id>HyUFmzrcB</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Forza Motorsports 6 Xbox One</g:title>
+			<g:description>Forza Motorsports 6 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_7912073.jpg</g:image_link>
+			<g:price>174.49</g:price>
+			<g:link>http://www.hepsiburada.com/forza-motorsports-6-xbox-one-p-GAMEARL130165</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Microsoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>BJPKmzrcr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Fifa 16 Xbox One (Türkçe Metin Çevirisi Vardır)</g:title>
+			<g:description>Fifa 16 Xbox One (Türkçe Metin Çevirisi Vardır)</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_6939107.jpg</g:image_link>
+			<g:price>159.00</g:price>
+			<g:link>http://www.hepsiburada.com/fifa-16-xbox-one-turkce-metin-cevirisi-vardir-p-GAMEARAL130119</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ea Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SkOF7MB9S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Ubisoft Xbox One Assassıns Creed Chronıcles</g:title>
+			<g:description>Ubisoft Xbox One Assassıns Creed Chronıcles</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_15422339.jpg</g:image_link>
+			<g:price>94.00</g:price>
+			<g:link>http://www.hepsiburada.com/ubisoft-xbox-one-assassins-creed-chronicles-p-GAMEARAL3732</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ubisoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>H1qQGSqS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>NBA 2K15 Xbox One</g:title>
+			<g:description>NBA 2K15 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3976486.jpg</g:image_link>
+			<g:price>89.00</g:price>
+			<g:link>http://www.hepsiburada.com/nba-2k15-xbox-one-p-GAMEARAL130058</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Take 2 Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SJecmfr9B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Warnerbros Xbox One Lego Hobbıt</g:title>
+			<g:description>Warnerbros Xbox One Lego Hobbıt</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_15421933.jpg</g:image_link>
+			<g:price>89.90</g:price>
+			<g:link>http://www.hepsiburada.com/warnerbros-xbox-one-lego-hobbit-p-GAMEARAL2980</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Warnerbros Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SyZcXzBqH</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>The Witcher 3 Wild Hunt XBox One</g:title>
+			<g:description>The Witcher 3 Wild Hunt XBox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4408650.jpg</g:image_link>
+			<g:price>128.00</g:price>
+			<g:link>http://www.hepsiburada.com/the-witcher-3-wild-hunt-xbox-one-p-GAMETRADEWITCHERXB</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Projekt Red Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>S1G9Qzrqr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Killer Instinct Xbox One</g:title>
+			<g:description>Killer Instinct Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4116461.jpg</g:image_link>
+			<g:price>55.00</g:price>
+			<g:link>http://www.hepsiburada.com/killer-instinct-xbox-one-p-GAMEARAL130081</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Microsoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>Hym5QzS9H</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>DMC Devil May Cry Xbox One</g:title>
+			<g:description>DMC Devil May Cry Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4454098.jpg</g:image_link>
+			<g:price>69.90</g:price>
+			<g:link>http://www.hepsiburada.com/dmc-devil-may-cry-xbox-one-p-GAMEARAL130093</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Capcom Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>BJVc7MB5r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Forza Horizon 2 Xbox One</g:title>
+			<g:description>Forza Horizon 2 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_5251078.jpg</g:image_link>
+			<g:price>139.00</g:price>
+			<g:link>http://www.hepsiburada.com/forza-horizon-2-xbox-one-p-GAMEARAL130080</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Microsoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>ByHc7zB5r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Bethesda Xbox One Dıshonored Defınıtıve Edt.</g:title>
+			<g:description>Bethesda Xbox One Dıshonored Defınıtıve Edt.</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_15422093.jpg</g:image_link>
+			<g:price>89.90</g:price>
+			<g:link>http://www.hepsiburada.com/bethesda-xbox-one-dishonored-definitive-edt-p-GAMEARAL3474</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Bethesda Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>B18qXfHqH</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Xbox One Play &amp; Charge Kit Gamepad Batarya Şarj</g:title>
+			<g:description>Xbox One Play &amp; Charge Kit Gamepad Batarya Şarj</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_12762905.jpg</g:image_link>
+			<g:price>22.20</g:price>
+			<g:link>http://www.hepsiburada.com/xbox-one-play-charge-kit-gamepad-batarya-sarj-p-GAMETEKNOGNC1564</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolu Aksesuarları|Xbox Aksesuarları|X-one Xbox Aksesuarları</g:category>
+		</item>
+		<item>
+			<g:id>Byo7Mr5B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Dragon Age Inquisition Xbox One</g:title>
+			<g:description>Dragon Age Inquisition Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3610714.jpg</g:image_link>
+			<g:price>79.00</g:price>
+			<g:link>http://www.hepsiburada.com/dragon-age-inquisition-xbox-one-p-GAMEARAL130014</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ea Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>ryxjQGH5r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>F1 2015 Xbox One</g:title>
+			<g:description>F1 2015 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_5554647.jpg</g:image_link>
+			<g:price>240.00</g:price>
+			<g:link>http://www.hepsiburada.com/f1-2015-xbox-one-p-GAMEARAL130103</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Namco Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>BJbsmGB9H</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Ea Sports Fifa 14 Xbox One</g:title>
+			<g:description>Ea Sports Fifa 14 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4884935.jpg</g:image_link>
+			<g:price>29.90</g:price>
+			<g:link>http://www.hepsiburada.com/ea-sports-fifa-14-xbox-one-p-GAMEWB421</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Playstation 4 Oyunları|Ea Games Playstation 4 Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>HyzjQGrcH</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Square Enix Xbox One Murdered Soul Suspect</g:title>
+			<g:description>Square Enix Xbox One Murdered Soul Suspect</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_13531246.jpg</g:image_link>
+			<g:price>58.00</g:price>
+			<g:link>http://www.hepsiburada.com/square-enix-xbox-one-murdered-soul-suspect-p-OYUNSAGEN1575</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Playstation 3 Oyunları|Square Enix Playstation 3 Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SJXimGBcB</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Assassins Creed Unity Xbox One</g:title>
+			<g:description>Assassins Creed Unity Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3980038.jpg</g:image_link>
+			<g:price>200.00</g:price>
+			<g:link>http://www.hepsiburada.com/assassins-creed-unity-xbox-one-p-GAMEARAL130040</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ubisoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>ByVsXfB5S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Guitar Hero Live Xbox One</g:title>
+			<g:description>Guitar Hero Live Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_7844500.jpg</g:image_link>
+			<g:price>415.00</g:price>
+			<g:link>http://www.hepsiburada.com/guitar-hero-live-xbox-one-p-GAMEARAL130149</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ubisoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>ryrs7zHcB</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Middle Earth Shadow Of Mordor Xbox One</g:title>
+			<g:description>Middle Earth Shadow Of Mordor Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3984971.jpg</g:image_link>
+			<g:price>99.00</g:price>
+			<g:link>http://www.hepsiburada.com/middle-earth-shadow-of-mordor-xbox-one-p-GAMEARAL130053</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Wb Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>B18jXGBqH</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Elder Scrolls Online Tamriel Unlimited Xbox One</g:title>
+			<g:description>Elder Scrolls Online Tamriel Unlimited Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_5025704.jpg</g:image_link>
+			<g:price>219.00</g:price>
+			<g:link>http://www.hepsiburada.com/elder-scrolls-online-tamriel-unlimited-xbox-one-p-GAMEARAL130111</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Bethesda Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>ByDimGHqS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Fifa 14 Xbox One</g:title>
+			<g:description>Fifa 14 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4267943.jpg</g:image_link>
+			<g:price>90.00</g:price>
+			<g:link>http://www.hepsiburada.com/fifa-14-xbox-one-p-GAMEARAL130001</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ea Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>HJdomGHqH</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Evolve Xbox One</g:title>
+			<g:description>Evolve Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4322263.jpg</g:image_link>
+			<g:price>93.00</g:price>
+			<g:link>http://www.hepsiburada.com/evolve-xbox-one-p-GAMEARAL130094</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Take 2 Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>BktsQfB9B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Call Of Duty Black Ops 3 Xbox One</g:title>
+			<g:description>Call Of Duty Black Ops 3 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4821868.jpg</g:image_link>
+			<g:price>194.90</g:price>
+			<g:link>http://www.hepsiburada.com/call-of-duty-black-ops-3-xbox-one-p-GAMEARAL130113</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Activision Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SJ9jXGr5S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Call Of Duty Advanced Warfare Xbox One</g:title>
+			<g:description>Call Of Duty Advanced Warfare Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4010892.jpg</g:image_link>
+			<g:price>200.00</g:price>
+			<g:link>http://www.hepsiburada.com/call-of-duty-advanced-warfare-xbox-one-p-GAMEARAL130049</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Activision Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SJ2XfHcr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Fallout 4 Xbox One</g:title>
+			<g:description>Fallout 4 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_5736105.jpg</g:image_link>
+			<g:price>260.00</g:price>
+			<g:link>http://www.hepsiburada.com/fallout-4-xbox-one-p-GAMEARAL130128</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Bilgisayar Oyunları|Bethesda Bilgisayar Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>Hyx3XfHqB</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Just Dance 2015 XBox One</g:title>
+			<g:description>Just Dance 2015 XBox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4067812.jpg</g:image_link>
+			<g:price>160.00</g:price>
+			<g:link>http://www.hepsiburada.com/just-dance-2015-xbox-one-p-GAMEARAL130041</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ubisoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>r1-3XfBqr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Thrustmaster TH8A Yarış Direksiyonu (PC, Xbox One ,PS3, PS4 Uyumlu )</g:title>
+			<g:description>Thrustmaster TH8A Yarış Direksiyonu (PC, Xbox One ,PS3, PS4 Uyumlu )</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_5764183.jpg</g:image_link>
+			<g:price>775.00</g:price>
+			<g:link>http://www.hepsiburada.com/thrustmaster-th8a-yaris-direksiyonu-pc-xbox-one-ps3-ps4-uyumlu-p-GAMEORTOMB4060059</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolu Aksesuarları|Playstation 4 Aksesuarları|Thrustmaster Playstation 4 Aksesuarları</g:category>
+		</item>
+		<item>
+			<g:id>HkGhmzrcH</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Ea Xbox One Ea Sports Ufc</g:title>
+			<g:description>Ea Xbox One Ea Sports Ufc</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_15421925.jpg</g:image_link>
+			<g:price>79.00</g:price>
+			<g:link>http://www.hepsiburada.com/ea-xbox-one-ea-sports-ufc-p-GAMEARAL2974</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|EA Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SymnmzBqH</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Star Wars Battlefront Xbox One</g:title>
+			<g:description>Star Wars Battlefront Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_8907393.jpg</g:image_link>
+			<g:price>189.00</g:price>
+			<g:link>http://www.hepsiburada.com/star-wars-battlefront-xbox-one-p-GAMEARAL130171-N</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ea Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>r1EhmMS5r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Thrustmaster Ferarri 458 Spider Direksiyon xbox One</g:title>
+			<g:description>Thrustmaster Ferarri 458 Spider Direksiyon xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4618520.jpg</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://www.hepsiburada.com/thrustmaster-ferarri-458-spider-direksiyon-xbox-one-p-GAMEARAL230023</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolu Aksesuarları|Xbox Aksesuarları|Thrustmaster Xbox Aksesuarları</g:category>
+		</item>
+		<item>
+			<g:id>r1H27Mr9B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Rare Replay Xbox One</g:title>
+			<g:description>Rare Replay Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_5711391.jpg</g:image_link>
+			<g:price>75.00</g:price>
+			<g:link>http://www.hepsiburada.com/rare-replay-xbox-one-p-GAMEARAL130131</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Microsoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SJ837fr9B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Bethesda Xbox One Doom</g:title>
+			<g:description>Bethesda Xbox One Doom</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_15422452.jpg</g:image_link>
+			<g:price>259.00</g:price>
+			<g:link>http://www.hepsiburada.com/bethesda-xbox-one-doom-p-GAMEARAL3804</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Bethesda Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>Syw2QfScS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Destiny The Taken King Legendary Edition Xbox One</g:title>
+			<g:description>Destiny The Taken King Legendary Edition Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_6043099.jpg</g:image_link>
+			<g:price>139.00</g:price>
+			<g:link>http://www.hepsiburada.com/destiny-the-taken-king-legendary-edition-xbox-one-p-GAMEARAL130137</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Activision Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SJOnQMS5H</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>WWE 2K15 Xbox One</g:title>
+			<g:description>WWE 2K15 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4166485.jpg</g:image_link>
+			<g:price>99.90</g:price>
+			<g:link>http://www.hepsiburada.com/wwe-2k15-xbox-one-p-GAMEARAL130059</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Take 2 Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SyY27MB9B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Fifa 15 Xbox One</g:title>
+			<g:description>Fifa 15 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3975550.jpg</g:image_link>
+			<g:price>140.00</g:price>
+			<g:link>http://www.hepsiburada.com/fifa-15-xbox-one-p-GAMEARAL130011</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ea Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>rJc3mzB5r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Assassins Creed Syndicate Special Edt Xbox One</g:title>
+			<g:description>Assassins Creed Syndicate Special Edt Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_6939053.jpg</g:image_link>
+			<g:price>129.90</g:price>
+			<g:link>http://www.hepsiburada.com/assassins-creed-syndicate-special-edt-xbox-one-p-GAMEARAL130142</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ubisoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>BJi3XMBqB</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Bandai Namco Xbox One Lords Of Fallen Limited Edition</g:title>
+			<g:description>Bandai Namco Xbox One Lords Of Fallen Limited Edition</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_15421949.jpg</g:image_link>
+			<g:price>89.90</g:price>
+			<g:link>http://www.hepsiburada.com/bandai-namco-xbox-one-lords-of-fallen-limited-edition-p-GAMEARAL3063</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Bandai Namco Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>Hk3hXMS9r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Final Fantasy Type 0 Hd Xbox One</g:title>
+			<g:description>Final Fantasy Type 0 Hd Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4646780.jpg</g:image_link>
+			<g:price>250.00</g:price>
+			<g:link>http://www.hepsiburada.com/final-fantasy-type-0-hd-xbox-one-p-GAMEARAL130088</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Square Enix Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>ry62XMr9H</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Ubisoft Xbox One Just Dance 2014</g:title>
+			<g:description>Ubisoft Xbox One Just Dance 2014</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_15421969.jpg</g:image_link>
+			<g:price>89.90</g:price>
+			<g:link>http://www.hepsiburada.com/ubisoft-xbox-one-just-dance-2014-p-GAMEARAL3195</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ubisoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>Hk0h7fH9B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>The Crew Xbox One</g:title>
+			<g:description>The Crew Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3980073.jpg</g:image_link>
+			<g:price>88.00</g:price>
+			<g:link>http://www.hepsiburada.com/the-crew-xbox-one-p-GAMEARAL130039</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ubisoft Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>rJ1x3mfr9S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Battlefield Hardline Xbox One</g:title>
+			<g:description>Battlefield Hardline Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3706626.jpg</g:image_link>
+			<g:price>99.00</g:price>
+			<g:link>http://www.hepsiburada.com/battlefield-hardline-xbox-one-p-GAMEARAL130012</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ea Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SylgnQMrqr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Focus Xbox One Dıvınıty:Orıgınal Sın</g:title>
+			<g:description>Focus Xbox One Dıvınıty:Orıgınal Sın</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_15422217.jpg</g:image_link>
+			<g:price>109.90</g:price>
+			<g:link>http://www.hepsiburada.com/focus-xbox-one-divinity-original-sin-p-GAMEARAL3624</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Focus Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>HkWl3mfS9S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>The Amazing Spiderman 2 XBox One</g:title>
+			<g:description>The Amazing Spiderman 2 XBox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4267383.jpg</g:image_link>
+			<g:price>119.00</g:price>
+			<g:link>http://www.hepsiburada.com/the-amazing-spiderman-2-xbox-one-p-GAMEARAL130007</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Activision Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>S1Ggh7fH9r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Ubisoft Xbox One Monopoly Famıly Fun Pack</g:title>
+			<g:description>Ubisoft Xbox One Monopoly Famıly Fun Pack</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_13531244.jpg</g:image_link>
+			<g:price>55.00</g:price>
+			<g:link>http://www.hepsiburada.com/ubisoft-xbox-one-monopoly-family-fun-pack-p-OYUNSAGEN1574</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Playstation 4 Oyunları|Ubisoft Playstation 4 Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>Hk67zHqr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Resident Evil Revelations 2 Xbox One</g:title>
+			<g:description>Resident Evil Revelations 2 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_5214501.jpg</g:image_link>
+			<g:price>89.90</g:price>
+			<g:link>http://www.hepsiburada.com/resident-evil-revelations-2-xbox-one-p-GAMEARAL130092</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Bilgisayar Oyunları|Capcom Bilgisayar Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>SJepQfBqr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>MotoGP 2015 Xbox One</g:title>
+			<g:description>MotoGP 2015 Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_5160435.jpg</g:image_link>
+			<g:price>144.90</g:price>
+			<g:link>http://www.hepsiburada.com/motogp-2015-xbox-one-p-GAMEARAL130114</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Namco Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>ryWp7GHcS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Need For Speed Rivals Xbox One</g:title>
+			<g:description>Need For Speed Rivals Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4405264.jpg</g:image_link>
+			<g:price>84.90</g:price>
+			<g:link>http://www.hepsiburada.com/need-for-speed-rivals-xbox-one-p-GAMEARAL130004</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ea Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>r1G6mGB9B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Dark Souls 3 Xbox One Oyun</g:title>
+			<g:description>Dark Souls 3 Xbox One Oyun</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_14100626.jpg</g:image_link>
+			<g:price>179.90</g:price>
+			<g:link>http://www.hepsiburada.com/dark-souls-3-xbox-one-oyun-p-GAMEWBDARKSOULSX</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Bandai Namco Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>HkQamGrqB</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Ubisoft Xbox One Rabbıds Invasıon The Interactıve Tv Show</g:title>
+			<g:description>Ubisoft Xbox One Rabbıds Invasıon The Interactıve Tv Show</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_13531248.jpg</g:image_link>
+			<g:price>75.00</g:price>
+			<g:link>http://www.hepsiburada.com/ubisoft-xbox-one-rabbids-invasion-the-interactive-tv-show-p-OYUNSAGEN1576</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox 360 Oyunları|Ubisoft Xbox 360 Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>ByVTmfHcH</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Xbox One Kablosuz Kumanda + Şarj Kiti</g:title>
+			<g:description>Xbox One Kablosuz Kumanda + Şarj Kiti</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3885957.jpg</g:image_link>
+			<g:price>229.80</g:price>
+			<g:link>http://www.hepsiburada.com/xbox-one-kablosuz-kumanda-sarj-kiti-p-GAMEARAL118003</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolu Aksesuarları|Xbox Aksesuarları|Microsoft Xbox Aksesuarları</g:category>
+		</item>
+		<item>
+			<g:id>H1HTmMBcr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Pro Evolution Soccer 2016 ( Pes 2016 ) Xbox One</g:title>
+			<g:description>Pro Evolution Soccer 2016 ( Pes 2016 ) Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_7836494.jpg</g:image_link>
+			<g:price>129.00</g:price>
+			<g:link>http://www.hepsiburada.com/pro-evolution-soccer-2016-pes-2016-xbox-one-p-GAMEARAL130122</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Konami Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>rJIaXzS9B</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Konami Xbox One Metal Gear Solıd V The Phantom Pain</g:title>
+			<g:description>Konami Xbox One Metal Gear Solıd V The Phantom Pain</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_15422091.jpg</g:image_link>
+			<g:price>139.90</g:price>
+			<g:link>http://www.hepsiburada.com/konami-xbox-one-metal-gear-solid-v-the-phantom-pain-p-GAMEARAL3473</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Konami Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>ByD6mzr5r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Mortal Kombat Xbox One</g:title>
+			<g:description>Mortal Kombat Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4648388.jpg</g:image_link>
+			<g:price>178.00</g:price>
+			<g:link>http://www.hepsiburada.com/mortal-kombat-xbox-one-p-GAMEARAL130100</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Wb Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>rkuamzr5S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Xbox One Kablosuz Kumanda / Joystick / Kol</g:title>
+			<g:description>Xbox One Kablosuz Kumanda / Joystick / Kol</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_3885937.jpg</g:image_link>
+			<g:price>176.50</g:price>
+			<g:link>http://www.hepsiburada.com/xbox-one-kablosuz-kumanda-joystick-kol-p-GAMEARAL118000</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolu Aksesuarları|Xbox Aksesuarları|Microsoft Xbox Aksesuarları</g:category>
+		</item>
+		<item>
+			<g:id>rkFp7MS5r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Ea Sports Ufc 2014 Ps4 Oyun</g:title>
+			<g:description>Ea Sports Ufc 2014 Ps4 Oyun</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4884934.jpg</g:image_link>
+			<g:price>84.00</g:price>
+			<g:link>http://www.hepsiburada.com/ea-sports-ufc-2014-ps4-oyun-p-GAMEWB336</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Ea Games Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>BJcpmfBcr</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Disney Infinity 2.0 Marvel Starter Pack Xbox One</g:title>
+			<g:description>Disney Infinity 2.0 Marvel Starter Pack Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4321446.jpg</g:image_link>
+			<g:price>159.00</g:price>
+			<g:link>http://www.hepsiburada.com/disney-infinity-2-0-marvel-starter-pack-xbox-one-p-GAMEARAL130056</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Oyun Figürleri|Disney Oyun Figürleri</g:category>
+		</item>
+		<item>
+			<g:id>r1spXMH9r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Skylanders Trap Team Starter Pack Xbox One</g:title>
+			<g:description>Skylanders Trap Team Starter Pack Xbox One</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4328638.jpg</g:image_link>
+			<g:price>80.00</g:price>
+			<g:link>http://www.hepsiburada.com/skylanders-trap-team-starter-pack-xbox-one-p-GAMEARAL130010</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Oyun Figürleri|Activision Oyun Figürleri</g:category>
+		</item>
+		<item>
+			<g:id>B1hpmMB9r</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Electronic Arts Titanfall Xbox One Oyun</g:title>
+			<g:description>Electronic Arts Titanfall Xbox One Oyun</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_4884940.jpg</g:image_link>
+			<g:price>62.00</g:price>
+			<g:link>http://www.hepsiburada.com/electronic-arts-titanfall-xbox-one-oyun-p-GAMEWB312</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Playstation 4 Oyunları|Electronic Arts Playstation 4 Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>Hk6pQMHcS</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Transformers Devastation Xbox 360</g:title>
+			<g:description>Transformers Devastation Xbox 360</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_7837061.jpg</g:image_link>
+			<g:price>150.00</g:price>
+			<g:link>http://www.hepsiburada.com/transformers-devastation-xbox-360-p-GAMEARAL50614</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox One Oyunları|Activision Xbox One Oyunları</g:category>
+		</item>
+		<item>
+			<g:id>HJR7fr9S</g:id>
+			<g:merchant>hepsiburada</g:merchant>
+			<g:title>Ea Games Xbox One Battlefıeld 4</g:title>
+			<g:description>Ea Games Xbox One Battlefıeld 4</g:description>
+			<g:image_link>//images.hepsiburada.net/assets/Game/200/Game_13531238.jpg</g:image_link>
+			<g:price>79.90</g:price>
+			<g:link>http://www.hepsiburada.com/ea-games-xbox-one-battlefield-4-p-OYUNSAGEN1571</g:link>
+			<g:category>Hobi Oyun Konsolları|Oyunlar Oyun Konsolları|Oyun Konsolları Oyunları|Xbox 360 Oyunları|Ea Games Xbox 360 Oyunları</g:category>
+		</item>
+
+
+
+	</channel>
+</rss>

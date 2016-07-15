@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<title>Example - Online Store</title>
+		<link>http://www.example.com</link>
+		<description>This is a sample feed containing the required and recommended attributes for a variety of different products</description>
+
+
+
+
+	</channel>
+</rss>

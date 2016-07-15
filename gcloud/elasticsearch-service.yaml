@@ -1,0 +1,13 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: elasticsearch
+  labels:
+    name: elasticsearch
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 9200
+      targetPort: 9200
+  selector:
+    app: elasticsearch

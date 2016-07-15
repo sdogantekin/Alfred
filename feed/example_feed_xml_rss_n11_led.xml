@@ -1,0 +1,2012 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<title>Example - Online Store</title>
+		<link>http://www.example.com</link>
+		<description>This is a sample feed containing the required and recommended attributes for a variety of different products</description>
+
+		<item>
+			<g:id>H12OUVgS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Vestel 40UA9300 40&quot; 102 Ekran UHD Uydu Alıcılı Smart 3D 4K LED TV</g:title>
+			<g:description>Vestel 40UA9300 40&quot; 102 Ekran UHD Uydu Alıcılı Smart 3D 4K LED TV</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1679.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-40ua9300-40-102-ekran-uhd-uydu-alicili-smart-3d-4k-led-tv-P112809250</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Bypu8ElS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>FİNLUX 32FX410H DAHİLİ UYDU ALICILI 82 EKRAN LED TV</g:title>
+			<g:description>FİNLUX 32FX410H DAHİLİ UYDU ALICILI 82 EKRAN LED TV</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>658.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/finlux-32fx410h-dahili-uydu-alicili-82-ekran-led-tv-P82093725</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ryeaO84eS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>SAMSUNG 40JU6070 Smart Tizen - 4K - Uydu Alıcılı LED TV</g:title>
+			<g:description>SAMSUNG 40JU6070 Smart Tizen - 4K - Uydu Alıcılı LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1929.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-40ju6070-smart-tizen-4k-uydu-alicili-led-tv-P78938369</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>r1bp_8VeS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Vestel 40FB7100(FA7100) 40&quot;  Uydu Alıcılı Smart FHD Led Tv</g:title>
+			<g:description>Vestel 40FB7100(FA7100) 40&quot;  Uydu Alıcılı Smart FHD Led Tv</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1219.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-40fb7100fa7100-40-uydu-alicili-smart-fhd-led-tv-P111693086</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SyfpdIEeH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>SEG 24SE5100 61 EKRAN DAHİLİ HD UYDU ALICILI LED TV</g:title>
+			<g:description>SEG 24SE5100 61 EKRAN DAHİLİ HD UYDU ALICILI LED TV</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>523.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/seg-24se5100-61-ekran-dahili-hd-uydu-alicili-led-tv-P99528693</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rkCu84eH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Philips 32PHK4100 Hd  Uydu Alıcılı Led Tv</g:title>
+			<g:description>Philips 32PHK4100 Hd  Uydu Alıcılı Led Tv</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>864.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-32phk4100-hd-uydu-alicili-led-tv-P92953182</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJxAuLNxH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>339.90</g:price>
+			<g:link>http://urun.n11.com/led-tv/awox-2271-22-56-ekran-full-hd-led-televizyon-monitor-P88639696</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SkbCO8NlH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1449.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-40pfk5500-40-101cm-fhd-smart-android-dahili-uydu-led-tv-P88266333</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rJGAd8VxB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL 4K SMART 43UA8900 43” LED TV</g:title>
+			<g:description>VESTEL 4K SMART 43UA8900 43” LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1805.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-4k-smart-43ua8900-43-led-tv-P101012864</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJyK8Egr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL 42FA5100 SATELLİTE FULL HD UYDULU LED TV</g:title>
+			<g:description>VESTEL 42FA5100 SATELLİTE FULL HD UYDULU LED TV</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1310.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-42fa5100-satellite-full-hd-uydulu-led-tv-P114480046</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SylytI4lH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>3000.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-48ua9300-4k-3d-smart-led-tv-P80098366</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1b1t8VgS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2249.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-55fa7500-55-140-ekran-600-hz-uydu-alicili-smart-led-tv-P100049782</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ByfytLVxH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Ev &amp; Yaşam</g:title>
+			<g:description>Ev &amp; Yaşam</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.90</g:price>
+			<g:link>http://urun.n11.com/tv-unitesi/konseptstand-22-40-lcd-led-tv-unitesi-tv-sehpasi-plc-702-beyaz-P96714488</g:link>
+			<g:category>Ev &amp; Yaşam|Mobilya|TV Ünitesi &amp; TV Sehpası|TV Ünitesi</g:category>
+		</item>
+		<item>
+			<g:id>Sk71tUVlH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL SATELLITE 40FA5050 102 EKRAN LED TV</g:title>
+			<g:description>VESTEL SATELLITE 40FA5050 102 EKRAN LED TV</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1149.99</g:price>
+			<g:link>http://urun.n11.com/lcd-tv/vestel-satellite-40fa5050-102-ekran-led-tv-P101312218</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LCD TV</g:category>
+		</item>
+		<item>
+			<g:id>BJNJY8VlS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL 22FA5100 COLOR UYDULU,LED TV</g:title>
+			<g:description>VESTEL 22FA5100 COLOR UYDULU,LED TV</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>544.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-22fa5100-color-uydululed-tv-P110536515</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rklF8VlS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>509.90</g:price>
+			<g:link>http://urun.n11.com/led-tv/awox-32-82-cm-hd-led-televizyon-P88639697</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H1egKLVeS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1749.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-43lh560v-smart-led-tv-P101119893</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HJZxYUNgB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL 4K SMART 43UA8900 109 EKRAN LED TV</g:title>
+			<g:description>VESTEL 4K SMART 43UA8900 109 EKRAN LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1775.90</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-4k-smart-43ua8900-109-ekran-led-tv-P106611966</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJ-YUNlH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Vestel 48FA8200 Full HD 3D Smart LED TV(SEPETTE %5 INDIRIMLI)</g:title>
+			<g:description>Vestel 48FA8200 Full HD 3D Smart LED TV(SEPETTE %5 INDIRIMLI)</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1789.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-48fa8200-full-hd-3d-smart-led-tvsepette-5-indirimli-P114621588</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1lZFU4er</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>549.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/32-full-hd-led-tv-yumatu-P117931608</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SkW-FUNlr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1839.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-49puk4900-4k-ultra-hd-slim-led-tv-P82449912</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rkGtLNlH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>737.00</g:price>
+			<g:link>http://urun.n11.com/lcd-tv/altus-32l5521-4b-ucretsiz-kargo-82-ekran-led-tv-P57012988</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LCD TV</g:category>
+		</item>
+		<item>
+			<g:id>HygMFL4gH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>562.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-24ha5100-satellite-led-tv-P110539308</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HkWGtLNgB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>6.99</g:price>
+			<g:link>http://urun.n11.com/aski-aparati/19-ve-22-arasi-lcd-led-tv-aski-aparati-sabit-P61499640</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Askı Aparatı</g:category>
+		</item>
+		<item>
+			<g:id>r1fGYL4gr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>749.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/finlux-satellite-32fx410h-82-ekran-dahili-uydu-alicili-led-tv-P54099741</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJ7GFLVeS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>4159.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-55uh650v-55-140-ekran-ultra-hd-4k-uydulu-smart-edge-led-tv-P118591959</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HkQtUVgS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Led/Lcd/Plazma Hareketli Tv Askı Aparat 17/19/22/24/32 İnç</g:title>
+			<g:description>Led/Lcd/Plazma Hareketli Tv Askı Aparat 17/19/22/24/32 İnç</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>27.00</g:price>
+			<g:link>http://urun.n11.com/aski-aparati/ledlcdplazma-hareketli-tv-aski-aparat-1719222432-inc-P44460766</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Askı Aparatı</g:category>
+		</item>
+		<item>
+			<g:id>ryxmFIVxB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Vestel 40FA5050 40&apos; 102 Ekran Full HD 200 HZ Uydu Alıcılı LED TV</g:title>
+			<g:description>Vestel 40FA5050 40&apos; 102 Ekran Full HD 200 HZ Uydu Alıcılı LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1132.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-40fa5050-40-102-ekran-full-hd-200-hz-uydu-alicili-led-tv-P115257514</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rJW7tLNlB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Axen 32 İnç 82 Ekran Kapadokya Led Tv</g:title>
+			<g:description>Axen 32 İnç 82 Ekran Kapadokya Led Tv</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>514.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/axen-32-inc-82-ekran-kapadokya-led-tv-P115545182</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ByNKIElS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Awox 2271 Full HD 22&quot; Inch 56 Ekran Led Televizyon Monitör</g:title>
+			<g:description>Awox 2271 Full HD 22&quot; Inch 56 Ekran Led Televizyon Monitör</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>339.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/awox-2271-full-hd-22-inch-56-ekran-led-televizyon-monitor-P83972607</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>B1rKLNxH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1635.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-3d-smart-43fa8500-109-ekran-led-tv-43-inc-P106350452</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>r1lBKLEeB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Vestel 48FA8200 Full HD 3D Smart LED TV</g:title>
+			<g:description>Vestel 48FA8200 Full HD 3D Smart LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1771.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-48fa8200-full-hd-3d-smart-led-tv-P117765066</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H1-rt8Ver</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1329.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/hi-level-49hl500-124-ekran-uydu-alicili-full-hd-led-tv-vestel-P115508568</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>r1MSFLExr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>798.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-axen-39-100-ekran-dahili-uydu-alicili-usb-movie-led-tv-P115622158</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HJmSFLElr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>HI-LEVEL 43&quot; FULL HD UYDU ALICILI 108 EKRAN LED TV</g:title>
+			<g:description>HI-LEVEL 43&quot; FULL HD UYDU ALICILI 108 EKRAN LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>949.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/hi-level-43-full-hd-uydu-alicili-108-ekran-led-tv-P102017596</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S14rtLVlB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>19.90</g:price>
+			<g:link>http://urun.n11.com/uzaktan-kumanda/samsung-lcd-led-plazma-tv-kumandasi-P112126577</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Uzaktan Kumanda</g:category>
+		</item>
+		<item>
+			<g:id>ByHHtLEer</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1065.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/hi-level-43hl500-109-cm-full-hd-uydu-alicili-led-tv-P104844516</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SyUt8NlH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1719.00</g:price>
+			<g:link>http://urun.n11.com/lcd-tv/vestel-4k-smart-43ua8900-109-ekran-led-tv-43-inc-P117151226</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LCD TV</g:category>
+		</item>
+		<item>
+			<g:id>rJeLKU4er</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>KAMOSONİC 43&apos;&apos; LED TV KS - 1143 (MÜTHİŞ GÖRÜNTÜ KALİTESİ)</g:title>
+			<g:description>KAMOSONİC 43&apos;&apos; LED TV KS - 1143 (MÜTHİŞ GÖRÜNTÜ KALİTESİ)</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>999.90</g:price>
+			<g:link>http://urun.n11.com/led-tv/kamosonic-43-led-tv-ks-1143-muthis-goruntu-kalitesi-P117882314</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rkb8FUVer</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>609.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/finlux-32fx210-82-ekran-led-televizyon-P102697642</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H1fLFUVlH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1699.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/finlux-48fx410f-48-inc-121cm-uydu-alicili-full-hd-led-tv-P106547050</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BkQ8K8ElH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>929.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/arcelik-a32-lb-5533-80-ekran-uydu-alicili-hd-led-tv-P107756532</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJNUF8VeH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2099.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/hi-level-55-inc-140-cm-dahili-uydu-alicili-smart-led-tv-P102018784</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H1rItLNxH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Ev &amp; Yaşam</g:title>
+			<g:description>Ev &amp; Yaşam</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>119.90</g:price>
+			<g:link>http://urun.n11.com/tv-unitesi/konseptstand-22-40-lcd-led-tv-unitesi-tv-sehpasi-plc-701-beyaz-P59821651</g:link>
+			<g:category>Ev &amp; Yaşam|Mobilya|TV Ünitesi &amp; TV Sehpası|TV Ünitesi</g:category>
+		</item>
+		<item>
+			<g:id>r1ILY8NxB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>PHILIPS 55PUK4900 ULTRA HD 4K LED TV</g:title>
+			<g:description>PHILIPS 55PUK4900 ULTRA HD 4K LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2394.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-55puk4900-ultra-hd-4k-led-tv-P86159634</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1DLKLNlH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>3249.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-49uh650v-49-125-ekran-ultra-hd-4k-uydulu-smart-led-tv-P118591917</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1wF8Vlr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>6899.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-65uh650v-65-165-ekran-ultra-hd-4k-uydulu-smart-edge-led-tv-P118592002</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rkgDF8Exr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>SAMSUNG UE 55JU6570 4K SMART WİFİ CURVED LED TV - SAMSUNG TÜRKİYE</g:title>
+			<g:description>SAMSUNG UE 55JU6570 4K SMART WİFİ CURVED LED TV - SAMSUNG TÜRKİYE</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>3789.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue-55ju6570-4k-smart-wifi-curved-led-tv-samsung-turkiye-P96863271</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SkZwKINeH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Ev &amp; Yaşam</g:title>
+			<g:description>Ev &amp; Yaşam</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>209.90</g:price>
+			<g:link>http://urun.n11.com/tv-unitesi/konseptstand-40-55-lcd-led-tv-unitesi-tv-sehpasi-plc-404-beyaz-P94402540</g:link>
+			<g:category>Ev &amp; Yaşam|Mobilya|TV Ünitesi &amp; TV Sehpası|TV Ünitesi</g:category>
+		</item>
+		<item>
+			<g:id>SJzDFUNxH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1989.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-43lh590v-43-109-ekran-full-hd-uydu-alicili-smart-led-tv-P118591544</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HymDYLNxr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Lcd Led Tv 10&quot; 37&quot; Arası Haraketli Askı Aparat</g:title>
+			<g:description>Lcd Led Tv 10&quot; 37&quot; Arası Haraketli Askı Aparat</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>19.99</g:price>
+			<g:link>http://urun.n11.com/aski-aparati/lcd-led-tv-10-37-arasi-haraketli-aski-aparat-P90325889</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Askı Aparatı</g:category>
+		</item>
+		<item>
+			<g:id>SyNwYUElB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1119.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-43inc-109-cm-full-hd-uydu-alici-hediyeli-led-tv-P118101616</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BySPFU4eB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>25.80</g:price>
+			<g:link>http://urun.n11.com/uydu-alicisi/karasal-anten-hd-dijital-alici-uydu-sistemi-led-tv-ekran-ev-oto-P112071988</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Uydu Sistemleri|Uydu Alıcısı</g:category>
+		</item>
+		<item>
+			<g:id>r1IPF8VeS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>9.99</g:price>
+			<g:link>http://urun.n11.com/uzaktan-kumanda/samsung-lcd-led-plazma-tv-kumandasi-huayu-rm1078-P58623651</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Uzaktan Kumanda</g:category>
+		</item>
+		<item>
+			<g:id>BJDvKU4xH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>19.90</g:price>
+			<g:link>http://urun.n11.com/uzaktan-kumanda/sunny-axen-led-tv-kumanda-P98627629</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Uzaktan Kumanda</g:category>
+		</item>
+		<item>
+			<g:id>rkuPF84gH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>PHILIPS 32PFK4100 FULL HD  LED TV</g:title>
+			<g:description>PHILIPS 32PFK4100 FULL HD  LED TV</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>951.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-32pfk4100-full-hd-led-tv-P78031697</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJKvKIExr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>PHILIPS 40PUK6400 ANDROID 4K UHD İNCE LED TV</g:title>
+			<g:description>PHILIPS 40PUK6400 ANDROID 4K UHD İNCE LED TV</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1653.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-40puk6400-android-4k-uhd-ince-led-tv-P76003611</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rJ9DY8VeS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>3300.00</g:price>
+			<g:link>http://urun.n11.com/lcd-tv/samsung-ue50js7200-4k-smart-suhd-led-tv-50-P101108089</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LCD TV</g:category>
+		</item>
+		<item>
+			<g:id>H1svKU4xS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL FINLUX 40FX615F Full HD 400hz Smart SLİM LED TV</g:title>
+			<g:description>VESTEL FINLUX 40FX615F Full HD 400hz Smart SLİM LED TV</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1099.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-finlux-40fx615f-full-hd-400hz-smart-slim-led-tv-P108538057</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJnDt8NxH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Samsung UE40JU6070 4K SMART ULTRA HD LED TV</g:title>
+			<g:description>Samsung UE40JU6070 4K SMART ULTRA HD LED TV</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1915.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue40ju6070-4k-smart-ultra-hd-led-tv-P95183828</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BkpPKU4eB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2098.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sony-kdl-43w805-c-led-tv-full-hd-android-tv-P114966644</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>r1CDYIEgS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>709.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-32inc-82cm-dahili-uydu-alicili-led-tv-P38166091</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1dKU4lr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>19.90</g:price>
+			<g:link>http://urun.n11.com/uzaktan-kumanda/axen-sunny-led-tv-kumandasi-P97176385</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Uzaktan Kumanda</g:category>
+		</item>
+		<item>
+			<g:id>rkeutUNeB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>16.90</g:price>
+			<g:link>http://urun.n11.com/aski-aparati/led-tv-lcd-tv-duvar-aski-aparati-99-102-106-ekran-40-42-en-ucuz-P95829215</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Askı Aparatı</g:category>
+		</item>
+		<item>
+			<g:id>Hy-uKIVxr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>929.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-smart-32ha7100-82-ekran-led-tv-32-inc-P107180273</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ryfdF84er</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>759.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/altus-al32l-5521-4b-uydu-alicili-led-televizyon-P112836189</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Hy7_tUNgr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Vestel 40FB7100 ( 40FA7100 2016 Model Led TV</g:title>
+			<g:description>Vestel 40FB7100 ( 40FA7100 2016 Model Led TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1272.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-40fb7100-40fa7100-2016-model-led-tv-P37939618</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HyV_F84xr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1318.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-49-124-ekran-full-hd-uydu-alicili-led-tv-P101878146</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1r_FLNgS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1349.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-43-109-ekran-led-uydulu-3d-tv-aski-aparati-hediye-P108552126</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BkLOtI4er</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2319.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-55fa7500-55-139-ekran-140-ekran-led-tv-P93450347</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HywdKUEgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1708.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-55-140-ekran-full-hd-uydu-alicili-led-tv-P95849784</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SkdutI4eH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1249.00</g:price>
+			<g:link>http://urun.n11.com/lcd-tv/vestel-40fa7100-smart-led-tv-P117156117</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LCD TV</g:category>
+		</item>
+		<item>
+			<g:id>r1YOFLVxS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>LG 24MT48U 24&quot; 61 Ekran Uydu Alıcılı HD Led Televizyon</g:title>
+			<g:description>LG 24MT48U 24&quot; 61 Ekran Uydu Alıcılı HD Led Televizyon</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>675.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-24mt48u-24-61-ekran-uydu-alicili-hd-led-televizyon-P115311709</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Byq_Y8VgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>PHILIPS 40PFK4100 102cm Hd Uydu Alıcılı FULL HD LED TV</g:title>
+			<g:description>PHILIPS 40PFK4100 102cm Hd Uydu Alıcılı FULL HD LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1329.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-40pfk4100-102cm-hd-uydu-alicili-full-hd-led-tv-P89819978</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BkidKU4eH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2149.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-48j5270-fhd-smart-led-tv-P96364940</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>By3OKUExr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>SAMSUNG UE-40J5070 102 CM UYDULU FULL HD LED TV</g:title>
+			<g:description>SAMSUNG UE-40J5070 102 CM UYDULU FULL HD LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1599.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue-40j5070-102-cm-uydulu-full-hd-led-tv-P107769607</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJaOKLNgB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1315.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-49-124-ekran-full-hdfull-hd-uydulu200mhz-led-tv-P98993417</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Bk0ut8NxB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>SAMSUNG UE48J6370TXTK CURVED SMART LED TV</g:title>
+			<g:description>SAMSUNG UE48J6370TXTK CURVED SMART LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2699.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue48j6370txtk-curved-smart-led-tv-P95751520</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BkyluFLNgB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>792.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-satellite-32hb5000-32ha5000-32-82-ekran-led-tv-P112866041</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Sylg_K8NeB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>975.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-woon-full-hd-uydulu-43-200-mhz-109-ek-led-tvaski-aprt-P28232459</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJ-eutIVgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>SAMSUNG 40JU6470 4K SMART UHD TİZEN WİFİ LED TV + SAMSUNG TÜRKİYE</g:title>
+			<g:description>SAMSUNG 40JU6470 4K SMART UHD TİZEN WİFİ LED TV + SAMSUNG TÜRKİYE</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2089.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-40ju6470-4k-smart-uhd-tizen-wifi-led-tv-samsung-turkiye-P96863186</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJzgOYIEgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Sunny Axen 32&quot; Uydulu Kapadokya Led TV</g:title>
+			<g:description>Sunny Axen 32&quot; Uydulu Kapadokya Led TV</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>615.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-axen-32-uydulu-kapadokya-led-tv-P36672811</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SytFINeH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>532.90</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-axen-kapadokya-32-82-ekran-usb-movie-led-tv-P99903964</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H1eKtUVeB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>348.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-19-12-volt-led-48-ekran-led-tv-P91490281</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>B1-FYI4eH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2039.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-48j5070-121cm-48-full-hd-uydu-alicili-led-tv-P96353153</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BkfKtI4lB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Ev &amp; Yaşam</g:title>
+			<g:description>Ev &amp; Yaşam</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>678.00</g:price>
+			<g:link>http://urun.n11.com/tv-unitesi/sanzelize-avangarde-tv-unitesi-ust-modul-led-aydinlatmali-P99711394</g:link>
+			<g:category>Ev &amp; Yaşam|Mobilya|TV Ünitesi &amp; TV Sehpası|TV Ünitesi</g:category>
+		</item>
+		<item>
+			<g:id>HJmFtLVeH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>94.90</g:price>
+			<g:link>http://urun.n11.com/aski-aparati/artelon-19-22-24-harekletli-masa-led-monitor-ekran-tv-askisi-P32811022</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Askı Aparatı</g:category>
+		</item>
+		<item>
+			<g:id>B14FFIVlB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Vestel 32HA5110 Dahili Uydulu Led TV</g:title>
+			<g:description>Vestel 32HA5110 Dahili Uydulu Led TV</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>819.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-32ha5110-dahili-uydulu-led-tv-P102284191</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HyrKFLVlB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>5119.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-55uh850v-55-140-ekran-suhd-4k-uydulu-3d-smart-edge-led-tv-P118591960</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>By8FY8Elr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>LG 49UH850V 49 &quot; 124 Ekran [4K] Süper UHD Uydulu Smart LED TV</g:title>
+			<g:description>LG 49UH850V 49 &quot; 124 Ekran [4K] Süper UHD Uydulu Smart LED TV</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>3649.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-49uh850v-49-124-ekran-4k-super-uhd-uydulu-smart-led-tv-P111816721</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SkvFYINgB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1544.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-42fa7500-smart-600hz-uydu-alici-wi-fi-led-tv-P52150900</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rJ_FKLVxS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>540.00</g:price>
+			<g:link>http://urun.n11.com/lcd-tv/altus-al22l-5531-4b-56-ekran-dahili-uydu-alicili-led-tv-P57567194</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LCD TV</g:category>
+		</item>
+		<item>
+			<g:id>SktKtLNlS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>PHILIPS 40PUK6400 ANDROİD 4K ULTRA HD LED TV</g:title>
+			<g:description>PHILIPS 40PUK6400 ANDROİD 4K ULTRA HD LED TV</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1652.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-40puk6400-android-4k-ultra-hd-led-tv-P89818655</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H15KtLVgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>LG 42LF580N FULL HD SMART LED MONİTÖR +tv</g:title>
+			<g:description>LG 42LF580N FULL HD SMART LED MONİTÖR +tv</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2106.27</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-42lf580n-full-hd-smart-led-monitor-tv-P108686728</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJstFUVgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>FINLUX 40FX410 40 inç 102 cm Ekran Dahili Uydu Alıcılı LED TV</g:title>
+			<g:description>FINLUX 40FX410 40 inç 102 cm Ekran Dahili Uydu Alıcılı LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1029.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/finlux-40fx410-40-inc-102-cm-ekran-dahili-uydu-alicili-led-tv-P111913644</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJ2FKIEeB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2090.00</g:price>
+			<g:link>http://urun.n11.com/lcd-tv/vestel-3d-smart-48fa8200-122-ekran-led-tv-48-inc-P117143955</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LCD TV</g:category>
+		</item>
+		<item>
+			<g:id>BJaKYUNeB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>3099.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-55lf650v-full-hd-uydu3dsmartwifi900hzwebos-led-tv-P112290618</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1AKtLVeH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1499.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-43fb7500-109-ekran-smart-600hz-led-tv-P118492456</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HkylKtUNeS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Philips 40PFK5500 40&quot; 101cm.Smart Android,Dahili Uydu wifi LED TV</g:title>
+			<g:description>Philips 40PFK5500 40&quot; 101cm.Smart Android,Dahili Uydu wifi LED TV</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2110.18</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-40pfk5500-40-101cmsmart-androiddahili-uydu-wifi-led-tv-P112951618</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ryxeFK8Elr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1590.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/regal-49r6012f2-49-smart-led-tv-P114885869</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HJWeFYUVgB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Philips 43PUS6401/12 LED TV</g:title>
+			<g:description>Philips 43PUS6401/12 LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2179.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-43pus640112-led-tv-P116364702</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SyzeYF8Vgr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Ev &amp; Yaşam</g:title>
+			<g:description>Ev &amp; Yaşam</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>209.90</g:price>
+			<g:link>http://urun.n11.com/tv-sehpasi/konseptstand-40-55-lcd-led-tv-sehpasi-tv-unitesi-plc-404-beyaz-P84790410</g:link>
+			<g:category>Ev &amp; Yaşam|Mobilya|TV Ünitesi &amp; TV Sehpası|TV Sehpası</g:category>
+		</item>
+		<item>
+			<g:id>B1XeFFUVxH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1649.00</g:price>
+			<g:link>http://urun.n11.com/lcd-tv/vestel-4k-3d-smart-40ua9300-102-ekran-led-tv-40-inc-P117147229</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LCD TV</g:category>
+		</item>
+		<item>
+			<g:id>rJEeFYUExB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Samsung UE50JS7200 127 Ekran 4K, Uydu, Wifi, Smart Led TV</g:title>
+			<g:description>Samsung UE50JS7200 127 Ekran 4K, Uydu, Wifi, Smart Led TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>3180.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue50js7200-127-ekran-4k-uydu-wifi-smart-led-tv-P116537034</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>By5FINgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>699.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/finlux-32fx410-full-hd-uydu-alicili-led-televizyon-aski-apara-P88972379</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJg5tINlr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Samsung 32J5373 32&quot; 82 Ekran Full HD Uydu Alıcılı Smart LED TV</g:title>
+			<g:description>Samsung 32J5373 32&quot; 82 Ekran Full HD Uydu Alıcılı Smart LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1179.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-32j5373-32-82-ekran-full-hd-uydu-alicili-smart-led-tv-P116048447</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1Z5FLNgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>929.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/hi-level-39-100-ekran-uydu-alicili-full-hd-led-tv-vestel-urunu-P115508197</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SyMcFUVxB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL 4K SMART 43UA8900 109 EKRAN LED TV (43 inç)</g:title>
+			<g:description>VESTEL 4K SMART 43UA8900 109 EKRAN LED TV (43 inç)</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1725.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-4k-smart-43ua8900-109-ekran-led-tv-43-inc-P118089326</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HyX5KLNxr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL SATELLITE 40FA5050 102 EKRAN LED TV</g:title>
+			<g:description>VESTEL SATELLITE 40FA5050 102 EKRAN LED TV</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1149.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-satellite-40fa5050-102-ekran-led-tv-P104150053</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ByV9tINlS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>BEKO B40 LB 5533 102 EKRAN DAHİLİ HD UYDU ALICILI LED TV</g:title>
+			<g:description>BEKO B40 LB 5533 102 EKRAN DAHİLİ HD UYDU ALICILI LED TV</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1179.50</g:price>
+			<g:link>http://urun.n11.com/led-tv/beko-b40-lb-5533-102-ekran-dahili-hd-uydu-alicili-led-tv-P96176647</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BkrcY8Elr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL SATELLITE 24HA5100 61 EKRAN LED TV (24 inç)</g:title>
+			<g:description>VESTEL SATELLITE 24HA5100 61 EKRAN LED TV (24 inç)</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>651.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-satellite-24ha5100-61-ekran-led-tv-24-inc-P48020593</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>r1UcFU4gr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2669.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-49lh604v-49-125-ekran-full-hd-uydulu-smart-led-tv-P118591914</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H1dcKI4lr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1300.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-smart-40fa7100-102-ekran-led-tv-P110221718</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ByvqtUElS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>FINLUX VESTEL 42FX650F 400Hz Uydu Alıcılı Full HD SMART LED TV</g:title>
+			<g:description>FINLUX VESTEL 42FX650F 400Hz Uydu Alıcılı Full HD SMART LED TV</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1179.99</g:price>
+			<g:link>http://urun.n11.com/led-tv/finlux-vestel-42fx650f-400hz-uydu-alicili-full-hd-smart-led-tv-P104295422</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Hkt5FUNxS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>LG 55UH770V 55&quot; 139 Ekran UHD 4K Smart Led Televizyon</g:title>
+			<g:description>LG 55UH770V 55&quot; 139 Ekran UHD 4K Smart Led Televizyon</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>4429.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-55uh770v-55-139-ekran-uhd-4k-smart-led-televizyon-P114768218</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJ99FLExr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>779.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/altus-al-32l-5521-4b-hd-200hz-uydu-alicili-led-tv-P93019322</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Syo9Y8NeB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2290.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/regal-55r6080f-55-600-hz-uydulu-slim-smart-led-tv-P117143149</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>B1h5FINgS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Techwood 50&quot; Uydulu LED TV (VESTEL GARANTİLİ)</g:title>
+			<g:description>Techwood 50&quot; Uydulu LED TV (VESTEL GARANTİLİ)</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1249.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/techwood-50-uydulu-led-tv-vestel-garantili-P99089688</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HJjFLNgr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>9.70</g:price>
+			<g:link>http://urun.n11.com/aski-aparati/kyoto-42-inc-lcd-tv-aski-aparati-led-lcd-plazma-aski-aparati-P104542257</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Askı Aparatı</g:category>
+		</item>
+		<item>
+			<g:id>HyxsKUNer</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>LG 49UH850V SUPER ULTRA HD WEBOS SMART LED TV</g:title>
+			<g:description>LG 49UH850V SUPER ULTRA HD WEBOS SMART LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>3639.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-49uh850v-super-ultra-hd-webos-smart-led-tv-P115887767</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rkZoFLEgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>4999.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue-49ks8500-49-123-cm-curved-suhd-smart-led-tv-dahili-h-P113316145</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJMotIExB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1099.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/hi-level-43-full-hd-uydu-alicili-108-ekran-led-tv-vestel-urunu-P99378512</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJXotLNlr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>16.00</g:price>
+			<g:link>http://urun.n11.com/uzaktan-kumanda/vestel-led-tv-kumandasi-P114147642</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Uzaktan Kumanda</g:category>
+		</item>
+		<item>
+			<g:id>BkEstIVgB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Ev &amp; Yaşam</g:title>
+			<g:description>Ev &amp; Yaşam</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>169.90</g:price>
+			<g:link>http://urun.n11.com/tv-sehpasi/konseptstand-40-55-lcd-led-tv-sehpasi-tv-unitesi-plc-403-P94399520</g:link>
+			<g:category>Ev &amp; Yaşam|Mobilya|TV Ünitesi &amp; TV Sehpası|TV Sehpası</g:category>
+		</item>
+		<item>
+			<g:id>H1BjtINlr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>14.90</g:price>
+			<g:link>http://urun.n11.com/aski-aparati/lcd-tv-led-tv-duvar-aski-aparati-32-82-ekran-en-ucuz-fiyat-P95831398</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Askı Aparatı</g:category>
+		</item>
+		<item>
+			<g:id>HJIsK8ElB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>339.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-led-tv-19-48cm-hd-50hz-hdmi-usb-tunersiz-P101873007</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJDotINxr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>699.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/seikon-awox-32-plus-ultra-slim-led-tv-3282-P115579438</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1dsKL4lH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1199.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/hi-level-43109-cm-200-hz-dahili-uydu-alicili-full-hd-led-tv-P97171592</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ByFsYLVlr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1272.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-smart-40fa7100-40-102-ekran-led-tv-P86804617</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Sk5jtINeB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>3349.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-55uh600v-55-140-ekran-ultra-hd-4k-uydulu-led-tv-P118591961</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H1joYIVlS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>945.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/axen-39-hd-ready-uydu-alicili-led-tv-P103198885</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1njt8ElS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1539.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue-40j5070-102-cm-uydulu-full-hd-led-tv-P116411939</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HkpiFI4xr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>4999.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue-55ku7500-55-ultra-hd-uydu-alicili-smart-curved-led-tv-P116988563</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJ0iKLVxS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2090.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-48fa8200-full-hd-3d-smart-led-tv-P51254471</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Bk1xotUEeS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL 48UA8900  4K SMART 122 EKRAN LED TV</g:title>
+			<g:description>VESTEL 48UA8900  4K SMART 122 EKRAN LED TV</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2099.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-48ua8900-4k-smart-122-ekran-led-tv-P102663387</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1nFIVlB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>37.50</g:price>
+			<g:link>http://urun.n11.com/tv-kablolari/philips-swv4433s-hdmi-kablo-3-metre-tv-led-goruntu-kablosu-P32981021</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|TV Kabloları</g:category>
+		</item>
+		<item>
+			<g:id>ryg3FLEer</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Samsung UE-55JU6570 Led Tv Samsung Türkiye Garantili</g:title>
+			<g:description>Samsung UE-55JU6570 Led Tv Samsung Türkiye Garantili</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>3628.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue-55ju6570-led-tv-samsung-turkiye-garantili-P64553285</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJW3Y84lr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2239.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/arcelik-a55l-5531-4b2-140-ekran-uydu-alicili-led-tv-P107756567</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HkG2FLVeS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>759.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/arcelik-altus-al32l5521-4b-hd-200hz-uydu-alicili-led-tv-P99930952</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rkm2YIExS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1349.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/regal-42r6010f-42-smart-led-tv-P106547962</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1NnKLExr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>BEKO B40 LW 5533 102 EKRAN BEYAZ LED TV DAHİLİ UYDU ALICILI</g:title>
+			<g:description>BEKO B40 LW 5533 102 EKRAN BEYAZ LED TV DAHİLİ UYDU ALICILI</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1193.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/beko-b40-lw-5533-102-ekran-beyaz-led-tv-dahili-uydu-alicili-P96179307</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HkB3Y8VxB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL 4K 3D SMART 48UA9300 122 EKRAN LED TV (48 inç)</g:title>
+			<g:description>VESTEL 4K 3D SMART 48UA9300 122 EKRAN LED TV (48 inç)</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2249.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-4k-3d-smart-48ua9300-122-ekran-led-tv-48-inc-P89034161</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H1I3FINlS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>529.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-axen32-inc-82cn-usb-li-led-tv-P90228608</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Hyw3YUNlB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>BEKO B 22 LB 5533 UYDULU LED TV | SEPETTE 31 TL İNDİRİMLE 602 TL</g:title>
+			<g:description>BEKO B 22 LB 5533 UYDULU LED TV | SEPETTE 31 TL İNDİRİMLE 602 TL</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>633.00</g:price>
+			<g:link>http://urun.n11.com/lcd-tv/beko-b-22-lb-5533-uydulu-led-tv-sepette-31-tl-indirimle-602-tl-P87081844</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LCD TV</g:category>
+		</item>
+		<item>
+			<g:id>Hy_htLNlS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2799.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-49k6500-49-124-ekran-curved-led-televizyon-P116981600</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rJY2YLNeS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1879.90</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-49puk4900-ultra-hd-4k-led-tv-P95633036</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S152KLEgB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1699.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-43fa8500-109-ekran-3d-smart-600hz-led-tv-P88473032</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H1o2KLVgS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>937.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-32ha7100-32-82-ekran-hd-uydu-alicili-smart-led-tv-P111225606</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ry3hYLEgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>329.90</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-19-siyah-hd-led-monitor-tv-P91309809</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BkphYL4eS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1709.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-55-140-ekran-full-hd-uydu-alicili-led-tv-P109604848</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HkCnKI4eS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>PHILIPS 49PUK4900/12 ULTRA HD 4K LED TV</g:title>
+			<g:description>PHILIPS 49PUK4900/12 ULTRA HD 4K LED TV</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1878.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-49puk490012-ultra-hd-4k-led-tv-P86159324</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rkye2FLNxS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL SATELLITE 32HA5000 / 32HB5000 82 EKRAN LED TV</g:title>
+			<g:description>VESTEL SATELLITE 32HA5000 / 32HB5000 82 EKRAN LED TV</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>799.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-satellite-32ha5000-32hb5000-82-ekran-led-tv-P99569308</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>r16FI4xH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1399.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/hi-level-48hl690-48-122cm-uydu-alicili-smart-tv-slim-led-tv-P99419157</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJgpt84eS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1777.00</g:price>
+			<g:link>http://urun.n11.com/lcd-tv/vestel-smart-48fa7500-122-ekran-led-tv-48-inc-P117157301</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LCD TV</g:category>
+		</item>
+		<item>
+			<g:id>rkZaYUVlB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>780.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sunny-sn32das056-32-led-tv-P115048857</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rJfpYI4eS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1495.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/regal-40r8070u-40-102-ekran-4k-3d-smart-800-hz-led-tv-P114880900</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Hk76K84xH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1139.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-seg-43sc7600-full-hd-uydulu-smart-109-ekran-led-tv-P118014120</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1NTFU4eH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>TELEFUNKEN 24TH4027 UYDULU 61 CM LED TV</g:title>
+			<g:description>TELEFUNKEN 24TH4027 UYDULU 61 CM LED TV</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>595.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/telefunken-24th4027-uydulu-61-cm-led-tv-P100447314</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HkSTY8ElB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>FİNLUX 42FX610F Uydu Alıcılı Led Televizyon</g:title>
+			<g:description>FİNLUX 42FX610F Uydu Alıcılı Led Televizyon</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1109.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/finlux-42fx610f-uydu-alicili-led-televizyon-P116277109</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BkUpYLElH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1399.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/techwood-50-127cm-dahili-uydu-alicili-led-tv-vestel-garantili-P99323599</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ByvaFIVlS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Ev &amp; Yaşam</g:title>
+			<g:description>Ev &amp; Yaşam</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>169.90</g:price>
+			<g:link>http://urun.n11.com/tv-unitesi/konseptstand-40-55-lcd-led-tv-unitesi-tv-sehpasi-plc-403-P94401515</g:link>
+			<g:category>Ev &amp; Yaşam|Mobilya|TV Ünitesi &amp; TV Sehpası|TV Ünitesi</g:category>
+		</item>
+		<item>
+			<g:id>S1_ptLNxr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Ev &amp; Yaşam</g:title>
+			<g:description>Ev &amp; Yaşam</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1227.65</g:price>
+			<g:link>http://urun.n11.com/tv-unitesi/sanzelize-avangarde-tv-unitesi-led-aydinlatmali-sedef-lake-4453-P86290409</g:link>
+			<g:category>Ev &amp; Yaşam|Mobilya|TV Ünitesi &amp; TV Sehpası|TV Ünitesi</g:category>
+		</item>
+		<item>
+			<g:id>B1taYI4xB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>19.90</g:price>
+			<g:link>http://urun.n11.com/uzaktan-kumanda/sony-led-tv-kumandasi-rm-l1165-P105139235</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon Aksesuarları|Uzaktan Kumanda</g:category>
+		</item>
+		<item>
+			<g:id>r1qpt8Nlr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2144.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-43ju6070-109-ekran-wifi-dahili-uydu-4k-ultra-hd-led-tv-P118390041</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ryjTt84gr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>TVISION 40TE8000 40&quot; UYDU ALICILI 3D SMART LED TV + VESTEL GARANT</g:title>
+			<g:description>TVISION 40TE8000 40&quot; UYDU ALICILI 3D SMART LED TV + VESTEL GARANT</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1098.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/tvision-40te8000-40-uydu-alicili-3d-smart-led-tv-vestel-garant-P91532470</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJ3ptU4eS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>SAMSUNG UE-32J5170 82 CM FULL HD UYDULU LED TV</g:title>
+			<g:description>SAMSUNG UE-32J5170 82 CM FULL HD UYDULU LED TV</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1179.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue-32j5170-82-cm-full-hd-uydulu-led-tv-P84242746</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1a6tLVlB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Samsung UE-48JU6070 LED Televizyon</g:title>
+			<g:description>Samsung UE-48JU6070 LED Televizyon</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2445.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue-48ju6070-led-televizyon-P92737356</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SyRt84gB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>YUMATU 32&apos;&apos; 82 EKRAN FULL HD SLIM LED TV</g:title>
+			<g:description>YUMATU 32&apos;&apos; 82 EKRAN FULL HD SLIM LED TV</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>550.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/yumatu-32-82-ekran-full-hd-slim-led-tv-P113741100</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BklAYUVlr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2559.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-43uh650v-43-109-ekran-ultra-hd-4k-uydulu-smart-led-tv-P118592019</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rJZ0KLVlS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1149.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/altus-al40l-5531-4b-40-led-tv-102cm-full-hd-P112835305</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1zCKUVlB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL SATELLITE 24HA5100 61 EKRAN LED TV (24 inç)</g:title>
+			<g:description>VESTEL SATELLITE 24HA5100 61 EKRAN LED TV (24 inç)</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>586.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-satellite-24ha5100-61-ekran-led-tv-24-inc-P59758071</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BkXAY84gS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Samsung T24D310ES 24&quot; 61 Ekran HD Uydu Alıcılı LED TV</g:title>
+			<g:description>Samsung T24D310ES 24&quot; 61 Ekran HD Uydu Alıcılı LED TV</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>669.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-t24d310es-24-61-ekran-hd-uydu-alicili-led-tv-P103208055</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1NCtLVeH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>VESTEL 4K 3D SMART 40UA9300 102 EKRAN LED TV (40 inç)</g:title>
+			<g:description>VESTEL 4K 3D SMART 40UA9300 102 EKRAN LED TV (40 inç)</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1765.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-4k-3d-smart-40ua9300-102-ekran-led-tv-40-inc-P97199864</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ByBAYUEgS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Awox 3282 HD 32&quot; Inch 82 Ekran Led Tv</g:title>
+			<g:description>Awox 3282 HD 32&quot; Inch 82 Ekran Led Tv</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>509.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/awox-3282-hd-32-inch-82-ekran-led-tv-P83971565</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJ1cIExr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>635.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-color-22fa5100k-56-ekran-led-tv-22-kirmizi-P53843082</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SklJc8VgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1149.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/altus-al40l5431-40-102-ekran-full-hd-200-hz-led-tv-arcelik-as-P95313783</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Skbkq8NlB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>725.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/finlux-32fx415-hm-dahili-uydu-alicili-led-tv-ultra-slim-P81627096</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H1z15UNgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1489.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-smart-42fa7500-42-106-ekran-led-tv-P91039477</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ry71q84eS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>LG 32LF580N 32&quot;  82 Ekran HD Ready Smart Led Tv</g:title>
+			<g:description>LG 32LF580N 32&quot;  82 Ekran HD Ready Smart Led Tv</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>889.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-32lf580n-32-82-ekran-hd-ready-smart-led-tv-P111695267</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJ41cI4lr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>929.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-32phk410012-32-81-cm-100-hz-dahili-uydu-alici-led-tv-P91886519</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1B19U4gB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1289.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/regal-42r6010f-42-106-ekran-400-hz-uydu-alicili-smart-led-tv-P97085533</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SJIyc8VxB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>PHILIPS 55PUK4900 4K ULTRA HD SLIM LED TV</g:title>
+			<g:description>PHILIPS 55PUK4900 4K ULTRA HD SLIM LED TV</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2399.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-55puk4900-4k-ultra-hd-slim-led-tv-P82448691</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rkPJcIEeH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Ev &amp; Yaşam</g:title>
+			<g:description>Ev &amp; Yaşam</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.90</g:price>
+			<g:link>http://urun.n11.com/tv-sehpasi/konseptstand-22-40-lcd-led-tv-sehpasi-tv-unitesi-plc-702-beyaz-P96711553</g:link>
+			<g:category>Ev &amp; Yaşam|Mobilya|TV Ünitesi &amp; TV Sehpası|TV Sehpası</g:category>
+		</item>
+		<item>
+			<g:id>r1Oy5U4gr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>LG 43UH650V 108 Ekran, 4K, WebOS Smart LED TV</g:title>
+			<g:description>LG 43UH650V 108 Ekran, 4K, WebOS Smart LED TV</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2375.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-43uh650v-108-ekran-4k-webos-smart-led-tv-P115875417</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rJF15UNxB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>999.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/hi-level-40-full-hd-dahili-uydu-alicili-102-ekran-led-tv-P111101006</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SyqJqINxS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2410.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-smart-55fa7500-140-ekran-led-tv-P94067345</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>SkjJqI4lH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2939.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-49puk7100-49-124-ekran-4k-ultra-hd-led-ambilight-tv-P88270895</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>S1n198Exr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>FINLUX VESTEL 32FX415  HD UYDU ALICILI SLİM LED TV İNCE KASA</g:title>
+			<g:description>FINLUX VESTEL 32FX415  HD UYDU ALICILI SLİM LED TV İNCE KASA</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>724.99</g:price>
+			<g:link>http://urun.n11.com/led-tv/finlux-vestel-32fx415-hd-uydu-alicili-slim-led-tv-ince-kasa-P104296015</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>Hke5U4eB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1139.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/regal-40-r-6015-uydu-alicili-400-hz-smart-slim-led-tv-P115664776</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>H1gg984lr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>969.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-32ha7100-smart-led-tv-P98152191</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>ryWg9I4xB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Woon 32&apos;&apos; 82 Ekran 200 Hz Usb Movie Led TV Askı Aparatı Hediyeli</g:title>
+			<g:description>Woon 32&apos;&apos; 82 Ekran 200 Hz Usb Movie Led TV Askı Aparatı Hediyeli</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>555.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/woon-32-82-ekran-200-hz-usb-movie-led-tv-aski-aparati-hediyeli-P60498058</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HkzecLEgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1249.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-seg-43sc7600-full-hd-uydulu-smart-109-ekran-led-tv-P115523930</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>r1Xx5IVgH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>900.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/arcelik-a32-lb-5533-led-televizyon-P112825467</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>By4xcLNgB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2459.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/philips-50puk6400-50-126cm-4k-uhd-android-dahili-uydu-led-tv-P117720681</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rkre5UNlB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1199.00</g:price>
+			<g:link>http://urun.n11.com/lcd-tv/vestel-40fa5050-40-102-ekran-full-hd-200-hz-uydu-alicili-led-tv-P118123255</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LCD TV</g:category>
+		</item>
+		<item>
+			<g:id>SkWq8VgB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>1745.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/lg-43lh560v-43-109-ekran-full-hd-uydu-alicili-smart-led-tv-P118591540</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJlWqLVlH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2149.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/samsung-ue-40ku7000-40-101-cm-uhd-smart-led-tvdahili-hd-uydu-a-P113314594</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>HJbZ58ElS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>SONY KDL43W805C Full HD 3D Wifi Android Led Tv</g:title>
+			<g:description>SONY KDL43W805C Full HD 3D Wifi Android Led Tv</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2079.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/sony-kdl43w805c-full-hd-3d-wifi-android-led-tv-P97747243</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>BJMb5LEgr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Beko B32-LB-5533 200 Hz Uydu Alıcılı LED TV</g:title>
+			<g:description>Beko B32-LB-5533 200 Hz Uydu Alıcılı LED TV</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>819.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/beko-b32-lb-5533-200-hz-uydu-alicili-led-tv-P97746810</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+		<item>
+			<g:id>rkmWqLNlH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Elektronik</g:title>
+			<g:description>Elektronik</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>2649.00</g:price>
+			<g:link>http://urun.n11.com/led-tv/vestel-55fa8500-3d-smart-140-ekran-led-tv-600hz-P110502643</g:link>
+			<g:category>Elektronik|Televizyon &amp; Ses Sistemleri|Televizyon|LED TV</g:category>
+		</item>
+
+
+
+	</channel>
+</rss>

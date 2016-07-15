@@ -1,0 +1,422 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<title>Example - Online Store</title>
+		<link>http://www.example.com</link>
+		<description>This is a sample feed containing the required and recommended attributes for a variety of different products</description>
+
+		<item>
+			<g:id>r19Ti_yL</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>199.99</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-erkek-yuruyus-kosu-ayakkabi-mavi-P65874525</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>SkgqTsdkL</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>199.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-erkek-ayakkabi-749794-010-nike-md-runner-2-P92938740</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>rJbc6i_yU</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/nike-kosu-ayakkabi-684979-003-nike-downshifter-6-P107413413</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>HkM96idkI</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Nike Erkek Ayakkabı 819810-001 NIKE ESSENTIALIST</g:title>
+			<g:description>Nike Erkek Ayakkabı 819810-001 NIKE ESSENTIALIST</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>169.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-erkek-ayakkabi-819810-001-nike-essentialist-P100177631</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>rk75aid1U</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>99.90</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-mach-runner-bayan-spor-ayakkabi-580420-402-P104560241</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>SyN96iuyU</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>NIKE T-LITE XI BAYAN SPOR AYAKKABI 616696-007</g:title>
+			<g:description>NIKE T-LITE XI BAYAN SPOR AYAKKABI 616696-007</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.90</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-t-lite-xi-bayan-spor-ayakkabi-616696-007-P104560247</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>rkSqajdkU</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>149.99</g:price>
+			<g:link>http://urun.n11.com/hali-saha-ve-krampon/nike-mercurial-vortex-ii-tf-yetiskin-hali-saha-ayakkabisi-P38513552</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Halı Saha &amp; Krampon</g:category>
+		</item>
+		<item>
+			<g:id>rk85piO1U</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/nike-kosu-ayakkabi-819413-001-nike-revolution-3-gs-P90475500</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>BkiasuyU</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>159.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-erkek-ayakkabi-705265-410-nike-sb-check-P92938026</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>Sklipo_18</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>149.99</g:price>
+			<g:link>http://urun.n11.com/hali-saha-ve-krampon/nike-tiempo-rio-ii-tf-yetiskin-hali-saha-ayakkabisi-P102147202</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Halı Saha &amp; Krampon</g:category>
+		</item>
+		<item>
+			<g:id>r1-s6s_yI</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>199.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/nike-erkek-ayakkabi-749794-048-nike-md-runner-2-P118174591</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>BkGiao_1L</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>NIKE T-LITE XI BAYAN SPOR AYAKKABI 616696-106</g:title>
+			<g:description>NIKE T-LITE XI BAYAN SPOR AYAKKABI 616696-106</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.90</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-t-lite-xi-bayan-spor-ayakkabi-616696-106-P104560251</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>BkmspidyL</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>HJ4jajOkL</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>Hkro6sdy8</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>BkLjpiO1I</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>BJDs6j_18</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>Bkus6idyU</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>rkKo6ouyU</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>SJ9iajOyL</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>B1jjTsuJU</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>SJhs6sdy8</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>HyTjpi_yI</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>H1AsTsdJU</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>SyJgiasuk8</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>BJexjasOyI</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-force-low-bayan-ayakkabi-314192-117-P71700611</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>rkbliTjukU</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Nike Free 3.0 Flyknit Yürüyüş Koşu Günlük Spor Ayakkabı</g:title>
+			<g:description>Nike Free 3.0 Flyknit Yürüyüş Koşu Günlük Spor Ayakkabı</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>129.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/nike-free-30-flyknit-yuruyus-kosu-gunluk-spor-ayakkabi-P80452505</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>HyGejTiOyI</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-bayan-kosu-ayakkabi-820313-403-nike-dual-fusion-x-2-gs-P108743481</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>BJXei6jOyL</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>199.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/nike-dual-fusion-tr-6-spor-ayakkabi-P105818000</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>SyNgoTjuJ8</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>199.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-max-90-ltr-pink-white-kadin-spor-ayakkabi-P97347812</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>SyrgoTouy8</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-revolution-eu-bayan-ayakkabi-706582-009-P96513207</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>S1hpiu18</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.99</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-revolution-2-gs-unisex-spor-ayakkabi-P105346815</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>B1gnajOJL</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>119.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-revolution-2-psv-cocuk-spor-ayakkabi-P72982341</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>Skb2TiOyI</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>159.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-ayakkabi-807316-404-nike-md-runner-2-gs-P110564142</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>S1fhTsOyL</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.99</g:price>
+			<g:link>http://urun.n11.com/hali-saha-ve-krampon/nike-jr-tiempo-rio-ii-tf-cocuk-hali-saha-ayakkabisi-P102142624</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Halı Saha &amp; Krampon</g:category>
+		</item>
+		<item>
+			<g:id>HkX3Tj_kL</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-ayakkabi-729810-461-nike-satire-ii-gs-P99275462</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>SkVh6oO18</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>99.90</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-elite-bayan-spor-ayakkabi-418720-101-P104560173</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>HkB3Ts_k8</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>139.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-vapor-court-631703-104-erkek-spor-ayakkabi-P111724489</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>rypTjO1I</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>149.99</g:price>
+			<g:link>http://urun.n11.com/hali-saha-ve-krampon/nike-jr-mercurial-vortex-ii-tf-cocuk-hali-saha-ayakkabisi-P102139801</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Halı Saha &amp; Krampon</g:category>
+		</item>
+		<item>
+			<g:id>SJg66iOkL</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>249.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/nike-air-max-1-ultra-moire-retro-white-kadin-spor-ayakkabi-P104952509</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>HJWT6iukI</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Spor &amp; Outdoor</g:title>
+			<g:description>Spor &amp; Outdoor</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>229.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/nike-bayan-kosu-ayakkabi-816748-005-nike-air-max-dynasty-P117281330</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+
+
+
+	</channel>
+</rss>

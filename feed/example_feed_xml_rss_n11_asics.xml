@@ -1,0 +1,352 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<title>Example - Online Store</title>
+		<link>http://www.example.com</link>
+		<description>This is a sample feed containing the required and recommended attributes for a variety of different products</description>
+
+		<item>
+			<g:id>S1fvNa0OS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel Lyte V Erkek Ayakkabı Korayspor</g:title>
+			<g:description>Asics Gel Lyte V Erkek Ayakkabı Korayspor</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>349.00</g:price>
+			<g:link>http://urun.n11.com/gunluk/asics-gel-lyte-v-erkek-ayakkabi-korayspor-P112167118</g:link>
+			<g:category>Giyim &amp; Ayakkabı|Ayakkabı &amp; Çanta|Erkek Ayakkabı|Günlük</g:category>
+		</item>
+		<item>
+			<g:id>Syxu460dr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Erkek Koşu Ayakkabı T619N-9099 PATRIOT 8</g:title>
+			<g:description>Asics Erkek Koşu Ayakkabı T619N-9099 PATRIOT 8</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>159.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-erkek-kosu-ayakkabi-t619n-9099-patriot-8-P102671845</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>Skbt4pA_S</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics T619N.4393 PATRIOT 8  ERKEK KOŞU AYAKKABI</g:title>
+			<g:description>Asics T619N.4393 PATRIOT 8  ERKEK KOŞU AYAKKABI</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>179.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-t619n4393-patriot-8-erkek-kosu-ayakkabi-P104176657</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>HyEY460_H</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Erkek Koşu Ayakkabı T5F4N-5042 GEL-CONTEND 3</g:title>
+			<g:description>Asics Erkek Koşu Ayakkabı T5F4N-5042 GEL-CONTEND 3</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>174.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-erkek-kosu-ayakkabi-t5f4n-5042-gel-contend-3-P102671541</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>BJHKEpAur</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Koşu Ayakkabı C520N-0120 GEL-GALAXY 8 GS</g:title>
+			<g:description>Asics Koşu Ayakkabı C520N-0120 GEL-GALAXY 8 GS</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>129.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-kosu-ayakkabi-c520n-0120-gel-galaxy-8-gs-P60556758</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>HyIKETCdB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel Lyte İii Erkek Ayakkabı Korayspor</g:title>
+			<g:description>Asics Gel Lyte İii Erkek Ayakkabı Korayspor</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>329.00</g:price>
+			<g:link>http://urun.n11.com/gunluk/asics-gel-lyte-iii-erkek-ayakkabi-korayspor-P112164605</g:link>
+			<g:category>Giyim &amp; Ayakkabı|Ayakkabı &amp; Çanta|Erkek Ayakkabı|Günlük</g:category>
+		</item>
+		<item>
+			<g:id>BkvY4aAdS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>ASİCS ERKEK AYAKKABI PATRİOT-T619N-4393</g:title>
+			<g:description>ASİCS ERKEK AYAKKABI PATRİOT-T619N-4393</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>150.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-erkek-ayakkabi-patriot-t619n-4393-P112587385</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>BJFFNaA_H</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics-909 H6F4L Gel Lyte V Erkek Spor Ayakkabı</g:title>
+			<g:description>Asics-909 H6F4L Gel Lyte V Erkek Spor Ayakkabı</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>389.25</g:price>
+			<g:link>http://urun.n11.com/gunluk/asics-909-h6f4l-gel-lyte-v-erkek-spor-ayakkabi-P111834572</g:link>
+			<g:category>Giyim &amp; Ayakkabı|Ayakkabı &amp; Çanta|Erkek Ayakkabı|Günlük</g:category>
+		</item>
+		<item>
+			<g:id>rJoYNpCuS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Erkek Ayakkabı HN528-5026 AARON</g:title>
+			<g:description>Asics Erkek Ayakkabı HN528-5026 AARON</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>149.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-erkek-ayakkabi-hn528-5026-aaron-P102670186</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>rk94p0OH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Ayakkabı Gel-Lyte V H610L-8585</g:title>
+			<g:description>Asics Ayakkabı Gel-Lyte V H610L-8585</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>319.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-ayakkabi-gel-lyte-v-h610l-8585-P102923372</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>Byeq4aAuS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel Game 5 gs Flash Yellow white Tenis Ayakkabıları</g:title>
+			<g:description>Asics Gel Game 5 gs Flash Yellow white Tenis Ayakkabıları</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>152.15</g:price>
+			<g:link>http://urun.n11.com/tenis/asics-gel-game-5-gs-flash-yellow-white-tenis-ayakkabilari-P88555414</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Tenis</g:category>
+		</item>
+		<item>
+			<g:id>H1-qNp0_S</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Aaron Bağlı Keten Akbi Lacivert Erkek Spor Ayakkabı</g:title>
+			<g:description>Asics Aaron Bağlı Keten Akbi Lacivert Erkek Spor Ayakkabı</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>169.90</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-aaron-bagli-keten-akbi-lacivert-erkek-spor-ayakkabi-P113328910</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>HJfiNp0dB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>ASICS ERKEK AYAKKABI H934Y-6201</g:title>
+			<g:description>ASICS ERKEK AYAKKABI H934Y-6201</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>89.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-erkek-ayakkabi-h934y-6201-P19135193</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>ry7jNp0OB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Ayakkabı C5A9N-9010 SUMIYAKA</g:title>
+			<g:description>Asics Ayakkabı C5A9N-9010 SUMIYAKA</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>129.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-ayakkabi-c5a9n-9010-sumiyaka-P74401464</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>r1EsVpR_S</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics T669n-2193 Patriot 8 Koşu Ayakkabı</g:title>
+			<g:description>Asics T669n-2193 Patriot 8 Koşu Ayakkabı</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>179.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-t669n-2193-patriot-8-kosu-ayakkabi-P112823652</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>SJGtpRdB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel Dedicate 4 Clay white asics blue Tenis Ayakkabısı</g:title>
+			<g:description>Asics Gel Dedicate 4 Clay white asics blue Tenis Ayakkabısı</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>242.10</g:price>
+			<g:link>http://urun.n11.com/tenis/asics-gel-dedicate-4-clay-white-asics-blue-tenis-ayakkabisi-P109230356</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Tenis</g:category>
+		</item>
+		<item>
+			<g:id>rJeftTAOB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics- H637Y-9090 - Gel-Lyte III Black  Unisex Ayakkabı</g:title>
+			<g:description>Asics- H637Y-9090 - Gel-Lyte III Black  Unisex Ayakkabı</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>296.10</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-h637y-9090-gel-lyte-iii-black-unisex-ayakkabi-P105560779</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>HJbGYTCdH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Çocuk Spor Ayakkabı C604N-0687</g:title>
+			<g:description>Asics Çocuk Spor Ayakkabı C604N-0687</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>219.99</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-cocuk-spor-ayakkabi-c604n-0687-P117254974</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>H1zzYTCuS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics T435N-4201 Gel Nimbus 16 Koşu Ayakkabısı</g:title>
+			<g:description>Asics T435N-4201 Gel Nimbus 16 Koşu Ayakkabısı</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>497.75</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-t435n-4201-gel-nimbus-16-kosu-ayakkabisi-P30235467</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>Hk7zF6AdB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel-Cumulus 17 Kadın Pembe Koşu Ayakkabısı (T5D8N-1988)</g:title>
+			<g:description>Asics Gel-Cumulus 17 Kadın Pembe Koşu Ayakkabısı (T5D8N-1988)</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>336.75</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-gel-cumulus-17-kadin-pembe-kosu-ayakkabisi-t5d8n-1988-P110689344</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>ryEzYpAdB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel-Lyte III GS Kadın Mavi Spor Ayakkabı (C5A4N-4223)</g:title>
+			<g:description>Asics Gel-Lyte III GS Kadın Mavi Spor Ayakkabı (C5A4N-4223)</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>171.75</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-gel-lyte-iii-gs-kadin-mavi-spor-ayakkabi-c5a4n-4223-P104091745</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>S1SMtTROr</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>ASİCS C603N-4234 Gel-Noosa Trı 11 Gs KOŞU AYAKKABI</g:title>
+			<g:description>ASİCS C603N-4234 Gel-Noosa Trı 11 Gs KOŞU AYAKKABI</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>192.72</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-c603n-4234-gel-noosa-tri-11-gs-kosu-ayakkabi-P104177141</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>Sk8fF6RdS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Erkek Spor Ayakkabı T619N-9093</g:title>
+			<g:description>Asics Erkek Spor Ayakkabı T619N-9093</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>189.99</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-erkek-spor-ayakkabi-t619n-9093-P118289436</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>H1vfYpR_r</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics T5F4N-5042 Gel-Contend 3 Koşu Ayakkabısı Renkli</g:title>
+			<g:description>Asics T5F4N-5042 Gel-Contend 3 Koşu Ayakkabısı Renkli</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>164.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-t5f4n-5042-gel-contend-3-kosu-ayakkabisi-renkli-P102765919</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>BJ_MY6RdS</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel Dedicate 4 White Navy Silver Erkek Tenis Ayakkabısı</g:title>
+			<g:description>Asics Gel Dedicate 4 White Navy Silver Erkek Tenis Ayakkabısı</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>177.65</g:price>
+			<g:link>http://urun.n11.com/tenis/asics-gel-dedicate-4-white-navy-silver-erkek-tenis-ayakkabisi-P118530056</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Tenis</g:category>
+		</item>
+		<item>
+			<g:id>BkFftpAdB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel-Noosa Tri 11 Kadın Turuncu Koşu Ayakkabısı (T676N-0687)</g:title>
+			<g:description>Asics Gel-Noosa Tri 11 Kadın Turuncu Koşu Ayakkabısı (T676N-0687)</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>329.25</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-gel-noosa-tri-11-kadin-turuncu-kosu-ayakkabisi-t676n-0687-P107538819</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>BJ9GYpRdB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics T439N-0590 Gel Cumulus 16 Koşu Ayakkabısı</g:title>
+			<g:description>Asics T439N-0590 Gel Cumulus 16 Koşu Ayakkabısı</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>396.95</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-t439n-0590-gel-cumulus-16-kosu-ayakkabisi-P30235460</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>HkozKTAdH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics B405N Gel Rocket 7 Voleybol Ayakkabısı</g:title>
+			<g:description>Asics B405N Gel Rocket 7 Voleybol Ayakkabısı</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>186.00</g:price>
+			<g:link>http://urun.n11.com/voleybol/asics-b405n-gel-rocket-7-voleybol-ayakkabisi-P31051523</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Voleybol</g:category>
+		</item>
+		<item>
+			<g:id>Hk3zFpRdB</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel- Rocket 7 Bayan Voleybol Ayakkabısı</g:title>
+			<g:description>Asics Gel- Rocket 7 Bayan Voleybol Ayakkabısı</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>179.00</g:price>
+			<g:link>http://urun.n11.com/voleybol/asics-gel-rocket-7-bayan-voleybol-ayakkabisi-P92055271</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Voleybol</g:category>
+		</item>
+		<item>
+			<g:id>B1QFaRur</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Bayan Spor Ayakkabı T669N-4393</g:title>
+			<g:description>Asics Bayan Spor Ayakkabı T669N-4393</g:description>
+			<g:image_link>http://cdn2.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>189.99</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-bayan-spor-ayakkabi-t669n-4393-P117252939</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>SyeQtTR_B</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Bayan Spor Ayakkabı T3A9N-4893</g:title>
+			<g:description>Asics Bayan Spor Ayakkabı T3A9N-4893</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>200.00</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-bayan-spor-ayakkabi-t3a9n-4893-P117589531</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+		<item>
+			<g:id>SyEFaRur</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel-Zaraca 4 GS Çocuk Siyah Koşu Ayakkabısı (C570N-9093)</g:title>
+			<g:description>Asics Gel-Zaraca 4 GS Çocuk Siyah Koşu Ayakkabısı (C570N-9093)</g:description>
+			<g:image_link>http://cdn4.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>119.25</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-gel-zaraca-4-gs-cocuk-siyah-kosu-ayakkabisi-c570n-9093-P107538558</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>HygEFTAuH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel-Kayano 22 Erkek Spor Ayakkabı T547N_5093</g:title>
+			<g:description>Asics Gel-Kayano 22 Erkek Spor Ayakkabı T547N_5093</g:description>
+			<g:image_link>http://cdn3.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>585.00</g:price>
+			<g:link>http://urun.n11.com/yuruyus-ve-kosu/asics-gel-kayano-22-erkek-spor-ayakkabi-t547n5093-P103603971</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Yürüyüş &amp; Koşu</g:category>
+		</item>
+		<item>
+			<g:id>ryWEY6CdH</g:id>
+			<g:merchant>n11</g:merchant>
+			<g:title>Asics Gel Saga Unisex Lacivert Spor Ayakkabı (H5T2L-5014)</g:title>
+			<g:description>Asics Gel Saga Unisex Lacivert Spor Ayakkabı (H5T2L-5014)</g:description>
+			<g:image_link>http://cdn1.n11.com.tr/static/css/jquery/img/blank.gif</g:image_link>
+			<g:price>246.75</g:price>
+			<g:link>http://urun.n11.com/gunluk-spor-ayakkabi/asics-gel-saga-unisex-lacivert-spor-ayakkabi-h5t2l-5014-P110687321</g:link>
+			<g:category>Spor &amp; Outdoor|Spor Giyim &amp; Ayakkabı|Spor Ayakkabı|Günlük Spor Ayakkabı</g:category>
+		</item>
+
+
+
+	</channel>
+</rss>
