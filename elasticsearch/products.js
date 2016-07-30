@@ -6,20 +6,6 @@ exports.mapping = {
     "type": "category",
     "body": {
         "properties": {
-            //"id": { "type": "string" },
-            //"title": { "type": "string" },
-            //"description": {
-            //    "type": "string",
-            //    "fields": {
-            //        "turkish": {
-            //            "type": "string",
-            //            "analyzer": "turkish"
-            //        }
-            //    }
-            //},
-            //"link": { "type": "string" },
-            //"image_link": { "type": "string" },
-            //"price": { "type": "string" },
             "suggest": {
                 "type": "completion",
                 "analyzer": "simple",

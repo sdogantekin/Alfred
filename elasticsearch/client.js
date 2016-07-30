@@ -4,6 +4,7 @@
 var elasticsearch = require("elasticsearch");
 var product       = require("./products");
 var config        = require("../config/config");
+var shortid       = require("shortid");
 var winston       = require("winston");
 winston.level     = config.log.level;
 
@@ -11,6 +12,12 @@ var client = new elasticsearch.Client({
     host: config.elastic.host,
     log: config.elastic.log
 });
+
+const INDEX_PRODUCT    = "product";
+exports.INDEX_PRODUCT  = INDEX_PRODUCT;
+
+const TYPE_CATEGORY    = "category";
+const DUMMY_CATEGORIES = ["Diğer","Diger","Other"];
 
 var addedItems = [];
 
@@ -62,7 +69,7 @@ exports.initialize = initialize;
 function suggest(indexName,inputText) {
     return client.suggest({
         index: indexName,
-        type: "category",
+        type: TYPE_CATEGORY,
         body: {
             "product-suggest" : {
                 text: inputText,
@@ -82,9 +89,8 @@ function getOutput(inputItems) {
     if(inputItems.length == 1) {
         candidate = inputItems[0];
     } else {
-        var dummyItems = ["Diğer"];
         var lastItem   = inputItems[inputItems.length-1];
-        if(dummyItems.indexOf(lastItem) == -1) {
+        if(DUMMY_CATEGORIES.indexOf(lastItem) == -1) {
             candidate = lastItem;
         } else {
             candidate = inputItems[inputItems.length-2];
@@ -97,30 +103,32 @@ function getOutput(inputItems) {
     return null;
 }
 
-function addCategories(categories) {
+function addCategories(categories, categoryDelimeter) {
     var categoryList = {};
     categories.forEach(function(item,index) {
-        var parsedCategory = parseCategory(item);
+        var parsedCategory = parseCategory(item, categoryDelimeter);
         if(parsedCategory.output in categoryList) {
             categoryList[parsedCategory.output].weight = categoryList[parsedCategory.output].weight + 1;
             //add input array
         } else {
-            categoryList[parsedCategory.output] = {};
+            categoryList[parsedCategory.output]        = {};
             categoryList[parsedCategory.output].weight = 1;
             categoryList[parsedCategory.output].input  = parsedCategory.input;
         }
     });
     for (var category in categoryList) {
         if(categoryList[category].weight >= config.elastic.catalogMinWeight) {
+            var categoryId = shortid.generate();
             client.index({
-                index: "product",
-                type:"category",
+                index: INDEX_PRODUCT,
+                type:TYPE_CATEGORY,
+                id: categoryId,
                 body:{
                     suggest: {
                         input: categoryList[category].input,
                         output: category,
                         weight: categoryList[category].weight,
-                        payload: {}
+                        payload: {"id":categoryId}
                     }
                 }
             }, function(error,response){
@@ -135,18 +143,18 @@ function addCategories(categories) {
 }
 exports.addCategories = addCategories;
 
-function parseCategory(category) {
+function parseCategory(category, categoryDelimeter) {
     var parsed = {};
-    parsed["input"] = category.split("|");
+    parsed["input"] = category.split(categoryDelimeter);
     if(parsed["input"].length == 1) {
-        parsed["output"] = parsed["input"][0];
+        parsed["output"] = parsed["input"][0].trim();
     } else {
         var dummyItems = ["Diğer"];
         var lastItem   = parsed["input"][parsed["input"].length-1];
         if(dummyItems.indexOf(lastItem) == -1) {
-            parsed["output"] = lastItem;
+            parsed["output"] = lastItem.trim();
         } else {
-            parsed["output"] = parsed["input"][parsed["input"].length-2];
+            parsed["output"] = parsed["input"][parsed["input"].length-2].trim();
         }
     }
     return parsed;
@@ -158,8 +166,8 @@ function addProduct(product) {
     if(outputItem) {
         winston.error("output --> "+outputItem);
         return client.index({
-            index: "product",
-            type:"category",
+            index: INDEX_PRODUCT,
+            type:TYPE_CATEGORY,
             id:product._id.toString(),
             body:{
                 /*
@@ -193,7 +201,7 @@ exports.addProduct = addProduct;
 
 function findProduct(text) {
     return client.search({
-        index :"product",
+        index :INDEX_PRODUCT,
         body : {
             query : {
                 multi_match : {
@@ -207,3 +215,20 @@ function findProduct(text) {
     });
 }
 exports.findProduct = findProduct;
+
+function incrementWeight(categoryId,callback) {
+    client.update({
+        index: INDEX_PRODUCT,
+        type:TYPE_CATEGORY,
+        id: categoryId,
+        body: {
+            script: 'ctx._source.suggest.weight += 1'
+        }
+    }, function (error, response) {
+        if(error) {
+            winston.error(error);
+        }
+        callback(error);
+    });
+}
+exports.incrementWeight = incrementWeight;

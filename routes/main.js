@@ -21,7 +21,7 @@ router.use(function (request, response, next) {
     response.locals.currentUser = request.user;
     // Get an array of flash messages by passing the key to req.flash()
     response.locals.errors = request.flash("error");
-    response.locals.infos = request.flash("info");
+    response.locals.infos  = request.flash("info");
     next();
 });
 
@@ -56,12 +56,12 @@ router.post("/login2", function (request, response, next) {
     passport.authenticate("alfred", function (error, user, info) {
         var result = {};
         if (error) {
-            result.status = "fail";
+            result.status  = "fail";
             result.message = err;
             return response.json(result);
         }
         if (!user) {
-            result.status = "fail";
+            result.status  = "fail";
             result.message = "User does not exits";
             return response.json(result);
         }
@@ -94,12 +94,12 @@ router.post("/signup", function (request, response, next) {
     User.findOne({username: username}, function (err, user) {
         var result = {};
         if (err) {
-            result.status = "fail";
+            result.status  = "fail";
             result.message = err;
             return response.json(result);
         }
         if (user) {
-            result.status = "fail";
+            result.status  = "fail";
             result.message = "User already exits";
             return response.json(result);
         }
@@ -140,12 +140,12 @@ router.post("/signup", function (request, response, next) {
     passport.authenticate("alfred", function (error, user, info) {
         var result = {};
         if (error) {
-            result.status = "fail";
+            result.status  = "fail";
             result.message = err;
             return response.json(result);
         }
         if (!user) {
-            result.status = "fail";
+            result.status  = "fail";
             result.message = "User does not exits";
             return response.json(result);
         }
@@ -164,11 +164,11 @@ router.get("/edit", common.ensureAuthenticated, function (request, response) {
 });
 
 router.post("/edit", common.ensureAuthenticated, function (request, response, next) {
-    request.user.username = request.body.username;
-    request.user.email = request.body.email;
+    request.user.username       = request.body.username;
+    request.user.email          = request.body.email;
     request.user.welcomeMessage = request.body.welcomeMessage;
-    request.user.bio = request.body.bio;
-    request.user.cards = [];
+    request.user.bio            = request.body.bio;
+    request.user.cards          = [];
     for (var i = 0; i < request.body.cards.length; i++) {
         request.user.cards.push(request.body.cards[i]);
     }

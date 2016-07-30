@@ -27,6 +27,7 @@
     "connect-redis": "latest",
     "node-expat": "latest",
     "elasticsearch": "latest",
-    "async": "latest"
+    "async": "latest",
+    "shortid": "latest"
   }
 }

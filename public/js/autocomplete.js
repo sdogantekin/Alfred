@@ -9,16 +9,17 @@ $(function () {
         source: "/products/suggest",
         minLength: 2,
         select: function (event, ui) {
-            /*
-             log( ui.item ?
-             "Selected: " + ui.item.value + " aka " + ui.item.id :
-             "Nothing selected, input was " + this.value );
-             */
+            $.ajax({
+                url: "/products/suggest/increment",
+                data: JSON.stringify({input: ui.item.id}),
+                type: "post",
+                contentType: "application/json",
+                success: function (response) {
+                    console.log("done");
+                }
+            });
         },
-
-        html: true, // optional (jquery.ui.autocomplete.html.js required)
-
-        // optional (if other layers overlap autocomplete list)
+        html: true,
         open: function (event, ui) {
             $(".ui-autocomplete").css("z-index", 1000);
         }

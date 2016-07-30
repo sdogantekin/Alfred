@@ -21,9 +21,15 @@ var productSchema = mongoose.Schema({
     description: {type:String, required:true},
     link: {type:String, required:true},
     image_link: {type:String, required:false},
+    brand: {type:String, required:false},
     price: {type:SchemaTypes.Double, required:true},
     price_int: {type:Number, required:true},
     price_dec: {type:Number, required:true},
+    sale_price: {type:SchemaTypes.Double, required:false},
+    sale_price_int: {type:Number, required:false},
+    sale_price_dec: {type:Number, required:false},
+    sale_start: {type:Date, required:false},
+    sale_end: {type:Date, required:false},
     category: {type:String, required:true}
 });
 
@@ -44,15 +50,47 @@ productSchema.post("save",function(doc) {
     return;
 });
 
-//productSchema.statics.search = function (searchedText,callback) {
-//    this.find({$text: {$search: searchedText}}, {score: {$meta: "textScore"}})
-//        .sort({score:{$meta:"textScore"}})
-//        .limit(5)
-//        .exec(callback);
-//}
-
 productSchema.statics.search = function (searchedText,merchantName, callback) {
-    this.find({merchant: merchantName, $text: {$search: searchedText}}, {score: {$meta: "textScore"}})
+//    this.find({merchant: merchantName, $text: {$search: searchedText}}, {score: {$meta: "textScore"}}, {score: { $gt: config.mongo.searchMinTextScore }})
+    var now = new Date();
+    this.aggregate([
+            {
+                $match: {
+                    merchant: merchantName,
+                    $text: {
+                        $search: searchedText
+                    }
+                }
+            },
+            {
+                $project: {
+                    merchant:1,
+                    title:1,
+                    description:1,
+                    link:1,
+                    image_link:1,
+                    brand:1,
+                    price:{
+                        $cond: { if: { $and: [{$gte: [now,"$sale_start"]},{$lte: [now,"$sale_end"]}] }, then: "$sale_price", else: "$price" }
+                    },
+                    price_int:{
+                        $cond: { if: { $and: [{$gte: [now,"$sale_start"]},{$lte: [now,"$sale_end"]}] }, then: "$sale_price_int", else: "$price_int" }
+                    },
+                    price_dec:{
+                        $cond: { if: { $and: [{$gte: [now,"$sale_start"]},{$lte: [now,"$sale_end"]}] }, then: "$sale_price_dec", else: "$price_dec" }
+                    },
+                    category:1,
+                    score: {
+                        $meta: "textScore"
+                    }
+                }
+            },
+            {
+                $match: {
+                    score: { $gt: config.mongo.searchMinTextScore }
+                }
+            }
+        ])
         .sort({score:{$meta:"textScore"} , price_int: 1, price_dec:1}) //1 : ascending or -1 : descending
         .limit(10)
         .exec(callback);

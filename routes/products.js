@@ -26,7 +26,7 @@ router.post("/search",function(request,response,next){
                     return next(error);
                 }
                 result["products"][merchant] = [];
-                var discountQueries = [];
+                var discountQueries          = [];
                 if (request.user && results.length > 0) {
                     discountQueries.push(function(callback2){
                         discountForProduct(results[0], request.user, result["discounts"], callback2, null);
@@ -117,13 +117,23 @@ router.get('/suggest', function (req, res, next) {
 
 router.post('/find', function (req, res, next) {
     elastic.findProduct(req.body.input).then(function (result) {
-        console.log(result);
         res.json(result);
     });
 });
 
+router.post("/suggest/increment",function(request,response,next){
+    elastic.incrementWeight(request.body.input, function(error) {
+        if(error) {
+            winston.warn(error);
+            response.json({status:"fail"});
+        } else {
+            response.json({status:"ok"});
+        }
+    });
+});
+
 function suggest(input,callback) {
-    elastic.suggest("product",input).then(function (result) {
+    elastic.suggest(elastic.INDEX_PRODUCT,input).then(function (result) {
         var response = [];
         if(result["product-suggest"] && result["product-suggest"].length > 0) {
             result["product-suggest"][0].options.forEach(function(obj){
